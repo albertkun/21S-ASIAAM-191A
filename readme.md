@@ -166,7 +166,7 @@ for academic honesty and integrity in your work.
 <tr class="header">
 <th><strong>Week</strong></th>
 <th><strong>Date</strong></th>
-<th><strong>Topics and Assignments</strong></th>
+<th><strong>Topics</strong></th>
 </tr>
 </thead>
 <tbody>
