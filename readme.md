@@ -1,4 +1,4 @@
-#Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society
+# Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society
 
 UCLA Asian American Studies Department, Spring 2021
 
