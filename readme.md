@@ -1,11 +1,10 @@
-**Asian Am 191A – Web Development and GIS for Social Change: Critical
-Data for Transforming Civil Society**
+#Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society
 
 UCLA Asian American Studies Department, Spring 2021
 
-Meeting Time: Tuesdays and Thursdays 2:00PM – 3:15PM
+Tuesdays and Thursdays 2:00PM – 3:15PM
 
-**Instructor:** Albert Kochaphum
+## Instructor: Albert Kochaphum
 
 Office Hours: Tuesdays 4pm – 5pm and by appointment
 
@@ -22,7 +21,7 @@ represent, how to represent it and what not to represent, maps are
 expressions of power.” –Logan Cochrane, Jon Corbett and Peter Keller,
 Impact of Community-based and Participatory Mapping
 
-**<u>Course Description</u>**
+## <u>Course Description</u>
 
 Spatial data is all around us, whether its survey information with zip
 codes or the various landmarks that comprise what people consider their
@@ -51,7 +50,7 @@ civil society. The two main objectives for this course are, 1) to walk
 away with technical web development skills relevant to mapping for civil
 society, and 2) to apply an ethical mapping framework to such projects.
 
-**<u>Course Objectives:</u>**
+##Course Objectives:
 
 -   Undertake analysis that are informed by critical data studies,
     participatory frameworks, social fieldwork, and ethical
@@ -73,14 +72,14 @@ society, and 2) to apply an ethical mapping framework to such projects.
     carry out, and deliver persuasive arguments through presenting a web
     site that includes a web map and other digital media.
 
-**<u>Course materials</u>**
+### Course materials
 
 > Chambers, Robert. "Participatory mapping and geographic information
 > systems: whose map? Who is empowered and who disempowered? Who gains
 > and who loses?." The Electronic Journal of Information Systems in
 > Developing Countries 25 (2006).
 
-Remote Learning Expectations for Students
+### Remote Learning Expectations for Students
 
 Even though remote learning has been in session for more than a year,
 students are expected to be respectful of various difficulties
@@ -102,7 +101,7 @@ Basic Zoom protocols for this course are as follows:
 
     -   If cameras are turned off, please provide a profile picture
 
-Lab Requirements
+### Lab Requirements
 
 Lab assignments will require use of a text-based coding environment,
 such as Microsoft Visual Studio Code in addition to QGIS (an open-source
@@ -110,7 +109,7 @@ desktop GIS software). Please be sure to have required software
 installed prior to lab sessions. Reach out if there are any installation
 issues or concerns before labs.
 
-Lab Assistance
+### Lab Assistance
 
 While the goal in the course is to ease everyone into GIS and writing
 code, I understand that the process may be intimidating and difficult.
@@ -122,17 +121,15 @@ troubleshooting technical problems can often be solved by a quick online
 search or reviewing lab materials for a misstep. The class community
 discussion on Slack is another resource for help.
 
-Assignments and Evaluation:
+## Assignments and Evaluation:
 
 Students will be evaluated based on individual lab assignments,
 participation, and team based final project. Students are required to
 attend all lectures and labs each week.
 
-40% = Final group project (and project drafts, as noted on the syllabus)
-
-40% = Interim class assignments
-
-15% = Preparation and participation in class
+ * 40% = Final group project (and project drafts, as noted on the syllabus)
+ * 40% = Interim class assignments
+ * 15% = Preparation and participation in class
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
@@ -141,7 +138,7 @@ attend all lectures and labs each week.
 | Group Assignments              | 4                   | 50         | 200              | 20%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
 
-Course Expectations:
+### Course Expectations:
 
 UCLA’s Office for Equity, Diversity, and Inclusion provides resources,
 events, and information about current initiatives at UCLA to support
