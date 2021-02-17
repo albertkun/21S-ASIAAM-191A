@@ -171,19 +171,15 @@ for academic honesty and integrity in your work.
 </thead>
 <tbody>
 <tr class="odd">
-</tr>
-<tr class="even">
 <td>1</td>
 <td>3/30</td>
 <td><strong>Introduction to GIS, data, and ethics</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>4/1</td>
 <td><p><strong>Lab: Spatial data and data management</strong></p>
 </td>
-</tr>
-<tr class="even">
 </tr>
 <tr class="odd">
 <td>2</td>
@@ -197,20 +193,15 @@ for academic honesty and integrity in your work.
 </td>
 </tr>
 <tr class="odd">
-</tr>
-<tr class="even">
 <td>3</td>
 <td>4/13</td>
 <td><strong>Web mapping</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>4/15</td>
 <td><p><em><strong>Lab - Designing a web map with intention</strong></em></p>
 </ul></td>
-</tr>
-<tr class="even">
-</tr>
 <tr class="odd">
 <td>4</td>
 <td>4/20</td>
@@ -221,22 +212,16 @@ for academic honesty and integrity in your work.
 <td>4/22</td>
 <td><p><em><strong>Lab – JavaScript functions</strong></em></p>
 </ul></td>
-</tr>
 <tr class="odd">
-</tr>
-<tr class="even">
 <td>5</td>
 <td>4/27</td>
 <td><strong>Connecting the dots: going from data to map</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>4/29</td>
 <td><p><em><strong>Lab –Using APIs to add data to maps</strong></em></p>
 </ul></td>
-</tr>
-<tr class="even">
-</tr>
 <tr class="odd">
 <td>6</td>
 <td>5/4</td>
@@ -246,21 +231,15 @@ for academic honesty and integrity in your work.
 <td></td>
 <td>5/6</td>
 <td><em><strong>Lab – Learning how to troubleshoot</strong></em></td>
-</tr>
 <tr class="odd">
-</tr>
-<tr class="even">
 <td>7</td>
 <td>5/11</td>
 <td><strong>Activism and Technology</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>5/13</td>
 <td><em><strong>Lab – Touching up our web map</strong></em></td>
-</tr>
-<tr class="even">
-</tr>
 <tr class="odd">
 <td>8</td>
 <td>5/18</td>
@@ -270,21 +249,15 @@ for academic honesty and integrity in your work.
 <td></td>
 <td>5/20</td>
 <td><em><strong>Lab – Tying it all together and styling your map more</strong></em></td>
-</tr>
 <tr class="odd">
-</tr>
-<tr class="even">
 <td>9</td>
 <td>5/25</td>
 <td><strong>Building lasting connections with civil society</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>5/27</td>
 <td><em><strong>Lab – Using alternative web frameworks</strong></em></td>
-</tr>
-<tr class="even">
-</tr>
 <tr class="odd">
 <td>10</td>
 <td>6/1</td>
