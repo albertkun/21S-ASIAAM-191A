@@ -50,7 +50,7 @@ civil society. The two main objectives for this course are, 1) to walk
 away with technical web development skills relevant to mapping for civil
 society, and 2) to apply an ethical mapping framework to such projects.
 
-##Course Objectives:
+## Course Objectives:
 
 -   Undertake analysis that are informed by critical data studies,
     participatory frameworks, social fieldwork, and ethical
@@ -348,138 +348,16 @@ for academic honesty and integrity in your work.
 </tbody>
 </table>
 
-**Student Resources for Support and Learning**
+## Student Resources for Support and Learning
 
-**Providing feedback to me:** I encourage your feedback at any time
-throughout the quarter about things that are helping you learn or
-difficult concepts. Please communicate with me if there are ways that we
-can improve the course to better support student learning.
+**Providing feedback to me:
 
-**Personal Problems:** I understand that sometimes life makes it
-difficult to focus on schoolwork. If you are having a personal problem
-that affects your participation in this course, please talk to me to
-create a plan. Please do not wait until the end of the quarter to share
-any challenges that have negatively impacted your engagement and
-academic performance. The sooner we meet, the more options we will have
-available able to discuss to support your overall academic success.
+I encourage your feedback at any time throughout the quarter about things that are helping you learn or difficult concepts. Please communicate with me if there are ways that we can improve the course to better support student learning.
 
-**Academic Accommodations Based on a Disability:** Students needing
-academic accommodations based on a disability should contact the Center
-for Accessible Education (CAE) at (310)825-1501 or in person at Murphy
-Hall A255. When possible, students should contact the CAE within the
-first two weeks of the term as reasonable notice is needed to coordinate
-accommodations. For more information visit
-[www.cae.ucla.edu](http://www.cae.ucla.edu).
+### Personal Problems: 
+I understand that sometimes life makes it difficult to focus on schoolwork. If you are having a personal problem that affects your participation in this course, please talk to me to create a plan. Please do not wait until the end of the quarter to share any challenges that have negatively impacted your engagement and academic performance. The sooner we meet, the more options we will haveavailable able to discuss to support your overall academic success.
 
-**Additional Course Policies and UCLA Policies**
+### Academic Accommodations Based on a Disability 
+Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310)825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit [www.cae.ucla.edu](http://www.cae.ucla.edu).
 
-**Message about Academic Integrity to all UCLA Students from UCLA Dean
-of Students:**  UCLA is a community of scholars. In this community, all
-members including faculty, staff and students alike are responsible for
-maintaining standards of academic honesty. As a student and member of
-the University community, you are here to get an education and are,
-therefore, expected to demonstrate integrity in your academic endeavors.
-You are evaluated on your own merits. Cheating, plagiarism,
-collaborative work, multiple submissions without the permission of the
-professor, or other kinds of academic dishonesty are considered
-unacceptable behavior and will result in formal disciplinary proceedings
-usually resulting in **suspension** or **dismissal**. 
 
-**Forms of Academic Dishonesty:** As specified in the UCLA Student
-Conduct Code, violations or attempted violations of academic dishonesty
-include, but are not limited to, cheating, fabrication, plagiarism,
-multiple submissions or facilitating academic dishonesty:
-
-> **Cheating:** Unauthorized acquiring of knowledge of an examination or
-> part of an examination
-
--   Allowing another person to take a quiz, exam, or similar evaluation
-    > for you
-
--   Using unauthorized material, information, or study aids in any
-    > academic exercise or examination – textbook, notes, formula list,
-    > calculator, etc.
-
--   Unauthorized collaboration in providing or requesting assistance,
-    > such as sharing information
-
--   Unauthorized use of someone else’s data in completing a computer
-    > exercise
-
--   Altering a graded exam or assignment and requesting that it be
-    > regraded
-
->  
->
-> **Plagiarism:** Presenting another’s words or ideas as if they were
-> one’s own
-
--   Submitting as your own through purchase or otherwise, part of or an
-    > entire work produced verbatim by someone else
-
--   Paraphrasing ideas, data or writing without properly acknowledging
-    > the source
-
--   Unauthorized transfer and use of someone else’s computer file as
-    > your own
-
--   Unauthorized use of someone else’s data in completing a computer
-    > exercise
-
-> **Multiple Submissions:** Submitting the same work (with exact or
-> similar content) in more than one class without permission from the
-> instructor to do so. This includes courses you are currently taking,
-> as well as courses you might take in another quarter
->
->  
->
-> **Facilitating Academic Dishonesty:** Participating in any action that
-> compromises the integrity if the academic standards of the University;
-> assisting another to commit an act of academic dishonesty
-
--   Taking a quiz, exam, or similar evaluation in place of another
-    > person
-
--   Allowing another student to copy from you
-
--   Providing material or other information to another student with
-    > knowledge that such assistance could be used in any of the
-    > violations stated above (e.g., giving test information to students
-    > in other discussion sections of the same course)
-
-> **Fabrication:** Falsification or invention of any information in an
-> academic exercise
-
--   Altering data to support research
-
--   Presenting results from research that was not performed
-
--   Crediting source material that was not used for research
-
-**Alternatives to Academic Dishonesty      **
-
--   **Seek out help** – meet with your TA or Professor, ask if there is
-    special tutoring available.
-
--   **Drop the course** – can you take it next quarter when you might
-    feel more prepared and less pressured?
-
--   **Ask for an extension** – if you explain your situation to your TA
-    or Professor, they might grant you an extended deadline.
-
--   **See a counselor** at Student Psychological Services, and/or your
-    school, college or department – UCLA has many resources for students
-    who are feeling the stresses of academic and personal pressures.
-
-Remember, **getting caught cheating affects more than just your GPA**.
-How will you explain to your parents, family and friends that you have
-been suspended or dismissed? How will it affect your financial aid award
-and/or scholarship money? Will you be required to, and be able to pay
-back that money if you are no longer a student? If you live in the
-residence halls, where will you go if you are told you can no longer
-live there?
-
-You have worked very hard to get here, so don’t cheat! If you would like
-more information, please come see us at the Dean of Students’ Office in
-1206 Murphy Hall, call us at (310) 825-3871 or visit their website at
-[www.deanofstudents.ucla.edu.](http://www.deanofstudents.ucla.edu/)
