@@ -171,14 +171,11 @@ for academic honesty and integrity in your work.
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td><strong>Introduction to GIS, data, and ethics</strong></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>1</td>
 <td>3/30</td>
-<td><strong>What are problems with the way we use data and GIS?</strong></td>
+<td><strong>Introduction to GIS, data, and ethics</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -187,9 +184,6 @@ for academic honesty and integrity in your work.
 </td>
 </tr>
 <tr class="even">
-<td></td>
-
-<td></td>
 </tr>
 <tr class="odd">
 <td>2</td>
@@ -203,14 +197,11 @@ for academic honesty and integrity in your work.
 </td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><strong>Web mapping</strong></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>3</td>
 <td>4/13</td>
-<td><strong>What are the dangers associated with using “proprietary” web applications and data?</strong></td>
+<td><strong>Web mapping</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -219,14 +210,11 @@ for academic honesty and integrity in your work.
 </ul></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><strong>Creating web content with a purpose</strong></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>4</td>
 <td>4/20</td>
-<td><strong>What are the problems with using web mapping for civil society?</strong></td>
+<td><strong>Creating web content with a purpose</strong></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -235,14 +223,11 @@ for academic honesty and integrity in your work.
 </ul></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><strong>Connecting the dots: going from data to map</strong></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>5</td>
 <td>4/27</td>
-<td><strong>How can web maps empower civil society without perpetuating the same systems of oppression?</strong></td>
+<td><strong>Connecting the dots: going from data to map</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -251,14 +236,11 @@ for academic honesty and integrity in your work.
 </ul></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><strong>Coding as collaboration</strong></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>6</td>
 <td>5/4</td>
-<td><strong>How do you suggest solutions or escalate systemic problems within your web map application or organization?</strong></td>
+<td><strong>Coding as collaboration</strong></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -266,14 +248,11 @@ for academic honesty and integrity in your work.
 <td><em><strong>Lab – Learning how to troubleshoot</strong></em></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><strong>Activism and Technology</strong></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>7</td>
 <td>5/11</td>
-<td><strong>How do we navigate the connection between activists and web mappers?</strong></td>
+<td><strong>Activism and Technology</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -281,14 +260,11 @@ for academic honesty and integrity in your work.
 <td><em><strong>Lab – Touching up our web map</strong></em></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><strong>Limits of Technology</strong></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>8</td>
 <td>5/18</td>
-<td><strong>Can democratized web maps be exploited and/or abused in civil society?</strong></td>
+<td><strong>Limits of Technology</strong></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -296,14 +272,11 @@ for academic honesty and integrity in your work.
 <td><em><strong>Lab – Tying it all together and styling your map more</strong></em></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><strong>Building lasting connections with civil society</strong></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>9</td>
 <td>5/25</td>
-<td><strong>How do you avoid trapping yourself into being ‘just a programmer’ when working in civil society?</strong></td>
+<td><strong>Building lasting connections with civil society</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -311,14 +284,11 @@ for academic honesty and integrity in your work.
 <td><em><strong>Lab – Using alternative web frameworks</strong></em></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><strong>Looking ahead civil society and the future of mapping</strong></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>10</td>
 <td>6/1</td>
-<td><strong>How can we shape the future for web mapping and civil society?</strong></td>
+<td><strong>Looking ahead civil society and the future of mapping</strong></td>
 </tr>
 <tr class="even">
 <td></td>
