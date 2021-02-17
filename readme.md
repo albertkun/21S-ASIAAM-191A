@@ -188,13 +188,13 @@ for academic honesty and integrity in your work.
 </tr>
 <tr class="even">
 <td></td>
-<td><strong>Human-IT, ethics, and data</strong></td>
+
 <td></td>
 </tr>
 <tr class="odd">
 <td>2</td>
 <td>4/6</td>
-<td><strong>How do we use spatial technology more ethically?</strong></td>
+<td><strong>Human-IT, ethics, and data</strong></td>
 </tr>
 <tr class="even">
 <td></td>
