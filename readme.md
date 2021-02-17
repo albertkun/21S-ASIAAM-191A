@@ -12,7 +12,7 @@ Email: albertkun@idre.ucla.edu
 
 <img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
 
-(HateCrimeMap, 2020)
+([HateCrimeMap](https://www.hatecrimemap.org), 2020)
 
 “Maps have always been made; they may have been one of the first forms
 of human communication. Maps exist in many forms, can represent
