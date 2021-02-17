@@ -184,10 +184,7 @@ for academic honesty and integrity in your work.
 <td></td>
 <td>4/1</td>
 <td><p><strong>Lab: Spatial data and data management</strong></p>
-<p><u>Final Project Assignment #1 due Thursday 4/8</u></p>
-<ul>
-<li><p>Form groups and decide on topic</p></li>
-</ul></td>
+</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -203,10 +200,7 @@ for academic honesty and integrity in your work.
 <td></td>
 <td>4/8</td>
 <td><p><em><strong>Lab: Introduction to JavaScript, Leaflet, and GitHub</strong></em></p>
-<p><u>Final Project Assignment #2 due Thursday 4/15</u></p>
-<ul>
-<li><p>Prepare memo and survey form</p></li>
-</ul></td>
+</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -222,9 +216,6 @@ for academic honesty and integrity in your work.
 <td></td>
 <td>4/15</td>
 <td><p><em><strong>Lab - Designing a web map with intention</strong></em></p>
-<p><u>Final Project Assignment #3 due Thursday 4/22</u></p>
-<ul>
-<li><p>Exchange memos</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -241,9 +232,6 @@ for academic honesty and integrity in your work.
 <td></td>
 <td>4/22</td>
 <td><p><em><strong>Lab – JavaScript functions</strong></em></p>
-<p><u>Final Project Assignment #4 due Thursday 4/29</u></p>
-<ul>
-<li><p>Wireframe/Draft Website</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -260,9 +248,6 @@ for academic honesty and integrity in your work.
 <td></td>
 <td>4/29</td>
 <td><p><em><strong>Lab –Using APIs to add data to maps</strong></em></p>
-<p><u>Final Project Assignment #5 due Thursday 5/13</u></p>
-<ul>
-<li><p>Web map draft</p></li>
 </ul></td>
 </tr>
 <tr class="even">
