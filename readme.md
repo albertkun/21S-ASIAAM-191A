@@ -127,13 +127,13 @@ Students will be evaluated based on individual lab assignments,
 participation, and team based final project. Students are required to
 attend all lectures and labs each week.
 
- * 45% = Final group project (and project drafts, as noted on the syllabus)
- * 40% = Interim class assignments
+ * 45% = Group project and assignments
+ * 40% = Individual class assignments
  * 15% = Preparation and participation in class
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
-| Individual assignments         | 10                  | 4          | 400              | 40%             |
+| Individual assignments         | 10                  | 40          | 400              | 40%             |
 | Participation                  |                     |            | 150              | 15%             |
 | Group Assignments              | 4                   | 50         | 200              | 20%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
