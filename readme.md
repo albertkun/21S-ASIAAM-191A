@@ -127,7 +127,7 @@ Students will be evaluated based on individual lab assignments,
 participation, and team based final project. Students are required to
 attend all lectures and labs each week.
 
- * 40% = Final group project (and project drafts, as noted on the syllabus)
+ * 45% = Final group project (and project drafts, as noted on the syllabus)
  * 40% = Interim class assignments
  * 15% = Preparation and participation in class
 
