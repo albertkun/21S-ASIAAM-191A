@@ -283,7 +283,7 @@ for academic honesty and integrity in your work.
 I encourage your feedback at any time throughout the quarter about things that are helping you learn or difficult concepts. Please communicate with me if there are ways that we can improve the course to better support student learning.
 
 ### Personal Problems: 
-I understand that sometimes life makes it difficult to focus on schoolwork. If you are having a personal problem that affects your participation in this course, please talk to me to create a plan. Please do not wait until the end of the quarter to share any challenges that have negatively impacted your engagement and academic performance. The sooner we meet, the more options we will haveavailable able to discuss to support your overall academic success.
+I understand that sometimes life makes it difficult to focus on schoolwork. If you are having a personal problem that affects your participation in this course, please talk to me to create a plan. Please do not wait until the end of the quarter to share any challenges that have negatively impacted your engagement and academic performance. The sooner we meet, the more options we will have available able to discuss to support your overall academic success.
 
 ### Academic Accommodations Based on a Disability 
 Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310)825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit [www.cae.ucla.edu](http://www.cae.ucla.edu).
