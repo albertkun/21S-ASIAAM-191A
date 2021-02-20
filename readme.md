@@ -278,7 +278,7 @@ for academic honesty and integrity in your work.
 
 ## Student Resources for Support and Learning
 
-**Providing feedback to me:
+### Providing feedback to me:
 
 I encourage your feedback at any time throughout the quarter about things that are helping you learn or difficult concepts. Please communicate with me if there are ways that we can improve the course to better support student learning.
 
