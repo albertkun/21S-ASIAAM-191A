@@ -9,6 +9,9 @@ Tuesdays and Thursdays 2:00PM – 3:15PM
 >## <u>Office Hours:</u>
 >Tuesdays 4pm – 5pm and by appointment
 
+This syllabus is subject to change and the latest copy can be found at:
+https://github.com/albertkun/21S-191A/
+
 
 <img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
 
@@ -128,15 +131,15 @@ participation, and team based final project. Students are required to
 attend all lectures and labs each week.
 
  * 45% = Group project and assignments
- * 40% = Individual class assignments
- * 15% = Preparation and participation in class
+ * 45% = Individual class assignments
+ * 10% = Preparation and participation in class
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
 | Individual assignments         | 10                  | 40          | 400              | 40%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
-| Group Assignments              | 4                   | 50         | 200              | 20%             |
-| Participation                  |                     |            | 150              | 15%             |
+| Group Project Assignments             | 4                   | 50         | 200              | 25%             |
+| Participation                  |                     |            | 150              | 10%             |
 ### Course Expectations:
 
 UCLA’s Office for Equity, Diversity, and Inclusion provides resources,
