@@ -1,18 +1,18 @@
 # Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society
 
-UCLA Asian American Studies Department, Spring 2021
+Asian American Studies Department, Spring 2021
 
 Tuesdays and Thursdays 2:00PM – 3:15PM
 
-## Instructor: Albert Kochaphum
+>## <u>Instructor:</u> 
+>Albert Kochaphum (albertkun@idre.ucla.edu)
+>## <u>Office Hours:</u>
+>Tuesdays 4pm – 5pm and by appointment
 
-Office Hours: Tuesdays 4pm – 5pm and by appointment
-
-Email: albertkun@idre.ucla.edu
 
 <img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
 
-([HateCrimeMap](https://www.hatecrimemap.com), 2020)
+(UCLA, [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
 “Maps have always been made; they may have been one of the first forms
 of human communication. Maps exist in many forms, can represent
@@ -21,7 +21,7 @@ represent, how to represent it and what not to represent, maps are
 expressions of power.” –Logan Cochrane, Jon Corbett and Peter Keller,
 Impact of Community-based and Participatory Mapping
 
-## <u>Course Description</u>
+>## <u>Course Description</u>
 
 Spatial data is all around us, whether its survey information with zip
 codes or the various landmarks that comprise what people consider their
@@ -50,7 +50,7 @@ civil society. The two main objectives for this course are, 1) to walk
 away with technical web development skills relevant to mapping for civil
 society, and 2) to apply an ethical mapping framework to such projects.
 
-## Course Objectives:
+>## <u>Course Objectives:</u>
 
 -   Undertake analysis that are informed by critical data studies,
     participatory frameworks, social fieldwork, and ethical
@@ -99,7 +99,7 @@ Basic Zoom protocols for this course are as follows:
 
 -   Though encouraged, video cameras are optional
 
-    -   If cameras are turned off, please provide a profile picture
+    -   If cameras are turned off, please provide a profile picture, this will help students and myself to identify you throughout the course 
 
 ### Lab Requirements
 
@@ -121,7 +121,7 @@ troubleshooting technical problems can often be solved by a quick online
 search or reviewing lab materials for a misstep. The class community
 discussion on Slack is another resource for help.
 
-## Assignments and Evaluation:
+>## <u>Assignments and Evaluation:</u>
 
 Students will be evaluated based on individual lab assignments,
 participation, and team based final project. Students are required to
@@ -134,10 +134,9 @@ attend all lectures and labs each week.
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
 | Individual assignments         | 10                  | 40          | 400              | 40%             |
-| Participation                  |                     |            | 150              | 15%             |
-| Group Assignments              | 4                   | 50         | 200              | 20%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
-
+| Group Assignments              | 4                   | 50         | 200              | 20%             |
+| Participation                  |                     |            | 150              | 15%             |
 ### Course Expectations:
 
 UCLA’s Office for Equity, Diversity, and Inclusion provides resources,
@@ -159,7 +158,7 @@ and section, and I expect you to be respectful and courteous to one
 another. Finally, I expect you to hold yourself to the highest standards
 for academic honesty and integrity in your work.
 
-**<u>Course Outline</u>**
+## <u>**Course Outline**</u>
 
 <table>
 <thead>
@@ -189,7 +188,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>4/8</td>
-<td><p><em><strong>Lab: Introduction to JavaScript, Leaflet, and GitHub</strong></em></p>
+<td><p><strong>Lab: Introduction to JavaScript, Leaflet, and GitHub</strong></p>
 </td>
 </tr>
 <tr class="odd">
@@ -200,7 +199,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>4/15</td>
-<td><p><em><strong>Lab - Designing a web map with intention</strong></em></p>
+<td><p><strong>Lab - Designing a web map with intention</strong></p>
 </ul></td>
 <tr class="odd">
 <td>4</td>
@@ -210,7 +209,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>4/22</td>
-<td><p><em><strong>Lab – JavaScript functions</strong></em></p>
+<td><p><strong>Lab – JavaScript functions</strong></p>
 </ul></td>
 <tr class="odd">
 <td>5</td>
@@ -220,7 +219,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>4/29</td>
-<td><p><em><strong>Lab –Using APIs to add data to maps</strong></em></p>
+<td><p><strong>Lab – Using APIs to add data to maps</strong></p>
 </ul></td>
 <tr class="odd">
 <td>6</td>
@@ -230,7 +229,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>5/6</td>
-<td><em><strong>Lab – Learning how to troubleshoot</strong></em></td>
+<td><strong>Lab – Learning how to troubleshoot</strong></td>
 <tr class="odd">
 <td>7</td>
 <td>5/11</td>
@@ -239,7 +238,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>5/13</td>
-<td><em><strong>Lab – Touching up our web map</strong></em></td>
+<td><strong>Lab – Touching up our web map</strong></td>
 <tr class="odd">
 <td>8</td>
 <td>5/18</td>
@@ -248,7 +247,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>5/20</td>
-<td><em><strong>Lab – Tying it all together and styling your map more</strong></em></td>
+<td><strong>Lab – Tying it all together and styling your map more</strong></td>
 <tr class="odd">
 <td>9</td>
 <td>5/25</td>
@@ -257,7 +256,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>5/27</td>
-<td><em><strong>Lab – Using alternative web frameworks</strong></em></td>
+<td><strong>Lab – Using alternative web frameworks</strong></td>
 <tr class="odd">
 <td>10</td>
 <td>6/1</td>
@@ -266,7 +265,7 @@ for academic honesty and integrity in your work.
 <tr class="even">
 <td></td>
 <td>6/3</td>
-<td><em><strong>Lab – Finishing up your web map</strong></em></td>
+<td><strong>Lab – Finishing up your web map</strong></td>
 </tr>
 <tr class="odd">
 <td>Finals</td>
