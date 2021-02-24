@@ -5,9 +5,9 @@ Asian American Studies Department, Spring 2021
 Tuesdays and Thursdays 2:00PM – 3:15PM
 
 ## <u>Instructor:</u> 
->Albert Kochaphum (albertkun@idre.ucla.edu)
+Albert Kochaphum (albertkun@idre.ucla.edu)
 ## <u>Office Hours:</u>
->Tuesdays 4pm – 5pm and by appointment
+Tuesdays 4pm – 5pm and by appointment
 
 This syllabus is subject to change and the latest copy can be found at:
 https://github.com/albertkun/21S-191A/
