@@ -9,9 +9,7 @@ Albert Kochaphum (albertkun@idre.ucla.edu)
 ## <u>Office Hours:</u>
 Tuesdays 4pm – 5pm and by appointment
 
-### Note: This syllabus is subject to change and the latest copy can be found at:
-https://github.com/albertkun/21S-191A/
-
+### Please note: This syllabus is subject to change.
 
 <img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
 
