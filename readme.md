@@ -4,12 +4,12 @@ Asian American Studies Department, Spring 2021
 
 Tuesdays and Thursdays 2:00PM – 3:15PM
 
-## <u>Instructor:</u> 
+## Instructor:
 Albert Kochaphum (albertkun@idre.ucla.edu)
-## <u>Office Hours:</u>
+## Office Hours:
 Tuesdays 4pm – 5pm and by appointment
 
-### Please note: This syllabus is subject to change.
+#### Please note: This syllabus is subject to change.
 
 <img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
 
@@ -22,7 +22,7 @@ represent, how to represent it and what not to represent, maps are
 expressions of power.” –Logan Cochrane, Jon Corbett and Peter Keller,
 Impact of Community-based and Participatory Mapping
 
-## <u>Course Description</u>
+## Course Description
 
 Spatial data is all around us, whether its survey information with zip
 codes or the various landmarks that comprise what people consider their
@@ -51,7 +51,7 @@ civil society. The two main objectives for this course are, 1) to walk
 away with technical web development skills relevant to mapping for civil
 society, and 2) to apply an ethical mapping framework to such projects.
 
-## <u>Course Objectives:</u>
+## Course Objectives:
 
 -   Undertake analysis that are informed by critical data studies,
     participatory frameworks, social fieldwork, and ethical
@@ -122,7 +122,7 @@ troubleshooting technical problems can often be solved by a quick online
 search or reviewing lab materials for a misstep. The class community
 discussion on Slack is another resource for help.
 
-## <u>Assignments and Evaluation:</u>
+## Assignments and Evaluation:
 
 Students will be evaluated based on individual lab assignments,
 participation, and team based final project. Students are required to
@@ -159,7 +159,7 @@ and section, and I expect you to be respectful and courteous to one
 another. Finally, I expect you to hold yourself to the highest standards
 for academic honesty and integrity in your work.
 
-## <u>**Course Outline**</u>
+## **Course Outline**
 
 <table>
 <thead>
