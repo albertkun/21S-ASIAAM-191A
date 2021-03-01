@@ -24,7 +24,7 @@ Impact of Community-based and Participatory Mapping
 
 ## Course Description
 
-Welcome to your journey into web programming and mapping! This course is designed for non-mappers and non-coders to bridge the divide between spatial data and using it in the non-profit world for acvitism, also known as civil society.
+Welcome to our journey into web programming and mapping! This course is designed for non-mappers and non-coders to bridge the divide between spatial data and using it in the non-profit world for acvitism.
 
 Spatial data is all around us, whether its survey information with zip
 codes or the various landmarks that comprise what people consider their
