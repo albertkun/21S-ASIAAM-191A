@@ -102,7 +102,7 @@ Basic Zoom protocols for this course are as follows:
 
 -   Though encouraged, video cameras are optional
 
-    -   If cameras are turned off, please provide a profile picture, this will help students and myself to identify you throughout the course 
+    -   If cameras are turned off, please provide a profile picture, this will help me to identify you throughout the course 
 
 ### Lab Requirements
 
