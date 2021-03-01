@@ -24,6 +24,8 @@ Impact of Community-based and Participatory Mapping
 
 ## Course Description
 
+Welcome to your journey into web programming and mapping! This course is designed for non-mappers and non-coders to bridge the divide between spatial data and using it in the non-profit world for acvitism, also known as civil society.
+
 Spatial data is all around us, whether its survey information with zip
 codes or the various landmarks that comprise what people consider their
 neighborhood. While maps, like census tracts or political boundaries are
@@ -160,6 +162,12 @@ another. Finally, I expect you to hold yourself to the highest standards
 for academic honesty and integrity in your work.
 
 ## **Course Outline**
+### Preperation:
+- Fill out the (pre-course survey)[https://cloud.albertmaps.com/apps/forms/DFs4qcqG5g4S9Jjk]
+- Download and install QGIS
+- Download and install VS Code
+If you have any issues with the above, please do not hesitate to contact me at albertkun@idre.ucla.edu.
+
 
 <table>
 <thead>
