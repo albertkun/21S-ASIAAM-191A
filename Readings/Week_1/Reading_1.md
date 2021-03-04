@@ -31,7 +31,7 @@ would be an example of a Geographic Information System.
 
 In short:
 
-![.\media\image1.png](media\image1.png)
+![.\media/image1.png](media/image1.png)
 
 ## Data Types
 
@@ -72,7 +72,7 @@ On the other hand, spatial data that has data attributes can be turned
 into a non-spatial data type by saving/exporting its data as tables. The
 following graphic summarizes this relationship:
 
-![](media\image2.png)
+![](media/image2.png)
 
 ## Spatial Data Formats
 
@@ -84,7 +84,7 @@ or no boundary at all, the most common example is elevation. The graphic
 below shows how vector data and raster data formats can represent
 continuous or discrete data:
 
-![alt text](media\image3.png)
+![alt text](media/image3.png)
 Spatial Data Types (Source: Michele Tobias, UC Davis)
 
 The graphic also illustrates how certain vector data is often better
@@ -133,7 +133,7 @@ Another common example is the following election result map which shows
 the number of people from each state that voted for either Biden or
 Trump in the 2020 general election.
 
-![](media\image4.png)
+![](media/image4.png)
 
 Source: [New York Times,
 2020](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html)
@@ -164,13 +164,13 @@ larger geographic relation. Let's return to the election map above, but
 break it down into counties to see how the summing of the data changed
 spatial relationships.
 
-![](media\image5.png)
+![](media/image5.png)
 
 Source: [USA Today, 2020](#mainContentSection)
 
 How does this map compare to the previous one?
 
-![](media\image4.png)
+![](media/image4.png)
 
 For one thing, you can see that a state like Nevada is not completely
 blue and has quite a bit of Republican voters. When a whole state is
@@ -181,7 +181,7 @@ level.
 Below is an example of how the United States Census Bureau's uses
 hierarchal geography:
 
-![](media\image6.png)
+![](media/image6.png)
 
 The Federal Information Processing Standards (FIPS) codes represents
 this in numerical format:
