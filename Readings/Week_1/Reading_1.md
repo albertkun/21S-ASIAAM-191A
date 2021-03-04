@@ -31,7 +31,7 @@ would be an example of a Geographic Information System.
 
 In short:
 
-![](images\media\image1.png)
+![images\media\image1.png](images\media\image1.png)
 
 ## Data Types
 
