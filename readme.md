@@ -163,7 +163,7 @@ for academic honesty and integrity in your work.
 
 ## **Course Outline**
 ### Preperation:
-- Fill out the (pre-course survey)[https://cloud.albertmaps.com/apps/forms/DFs4qcqG5g4S9Jjk]
+- Fill out the (pre-course survey)[https://forms.gle/2VFUFsFRmz16dYm88]
 - Download and install QGIS
 - Download and install VS Code
 If you have any issues with the above, please do not hesitate to contact me at albertkun@idre.ucla.edu.
