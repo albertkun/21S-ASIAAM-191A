@@ -135,9 +135,9 @@ attend all lectures and labs each week.
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
-| Individual assignments         | 10                  | 40          | 400              | 40%             |
+| Individual assignments         | 10                  | 40          | 400              | 45%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
-| Group Project Assignments             | 4                   | 50         | 200              | 25%             |
+| Group Project Assignments             | 4                   | 50         | 200              | 20%             |
 | Participation                  |                     |            | 150              | 10%             |
 ### Course Expectations:
 
