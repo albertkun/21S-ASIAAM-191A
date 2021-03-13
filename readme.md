@@ -269,7 +269,7 @@ If you have any issues with the above, please do not hesitate to contact me at a
 <tr class="odd">
 <td>10</td>
 <td>6/1</td>
-<td><strong>Looking ahead civil society and the future of mapping</strong></td>
+<td><strong>Looking ahead to civil society and the future of mapping</strong></td>
 </tr>
 <tr class="even">
 <td></td>
