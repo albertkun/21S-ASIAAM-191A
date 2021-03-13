@@ -77,10 +77,9 @@ society, and 2) to apply an ethical mapping framework to such projects.
 
 ### Course materials
 
-> Chambers, Robert. "Participatory mapping and geographic information
-> systems: whose map? Who is empowered and who disempowered? Who gains
-> and who loses?." The Electronic Journal of Information Systems in
-> Developing Countries 25 (2006).
+> Dougherty, J. and Ilyankou, I. “Hands-On Data Visualization:
+> Interactive Storytelling from Spreadsheets to Code” O’Reilly Media, Inc. (2021). Available at https://handsondataviz.org/
+
 
 ### Remote Learning Expectations for Students
 
