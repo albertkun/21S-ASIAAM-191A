@@ -163,8 +163,8 @@ for academic honesty and integrity in your work.
 ## **Course Outline**
 ### Preperation:
 - Fill out the (pre-course survey)[https://forms.gle/2VFUFsFRmz16dYm88]
-- Download and install QGIS
-- Download and install VS Code
+- Download and install (QGIS)[https://qgis.org/en/site/forusers/download.html]
+- Download and install (VS Code)[https://code.visualstudio.com/]
 If you have any issues with the above, please do not hesitate to contact me at albertkun@idre.ucla.edu.
 
 
