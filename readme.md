@@ -105,7 +105,7 @@ Basic Zoom protocols for this course are as follows:
 
 ### Lab Requirements
 
-Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/). [Firefox](https://www.mozilla.org/en-US/firefox/new/), a modern web-browser with debug features built-in is highly recommended. [QGIS](https://www.qgis.org/) (open-source
+Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/). [Firefox](https://www.mozilla.org/en-US/firefox/new/), a modern web-browser with built-in debugging is highly recommended. [QGIS](https://www.qgis.org/) (open-source
 desktop GIS software) will be used for introducing GIS. Use of other software is allowed but not supported (i.e. you are on your own to troubleshoot).
 
 Please be sure to have required software installed prior to lab sessions. Reach out if there are any installation issues or concerns before labs.
