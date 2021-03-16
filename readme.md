@@ -105,11 +105,10 @@ Basic Zoom protocols for this course are as follows:
 
 ### Lab Requirements
 
-Lab assignments will require use of a text-based coding environment,
-such as Microsoft Visual Studio Code in addition to QGIS (an open-source
-desktop GIS software). Please be sure to have required software
-installed prior to lab sessions. Reach out if there are any installation
-issues or concerns before labs.
+Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/). [Firefox](https://www.mozilla.org/en-US/firefox/new/), a modern web-browser with debug features built-in is highly recommended. [QGIS](https://www.qgis.org/) (open-source
+desktop GIS software) will be used for introducing GIS. Use of other software is allowed but not supported (i.e. you are on your own to troubleshoot).
+
+Please be sure to have required software installed prior to lab sessions. Reach out if there are any installation issues or concerns before labs.
 
 ### Lab Assistance
 
@@ -135,10 +134,10 @@ attend all lectures and labs each week.
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
-| Individual assignments         | 10                  | 40          | 400              | 45%             |
+| Individual assignments         | 10                  | 40          | 450              | 45%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
 | Group Project Assignments             | 4                   | 50         | 200              | 20%             |
-| Participation                  |                     |            | 150              | 10%             |
+| Participation                  |                     |            | 100              | 10%             |
 ### Course Expectations:
 
 UCLA’s Office for Equity, Diversity, and Inclusion provides resources,
