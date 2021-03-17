@@ -7,7 +7,7 @@ Tuesdays and Thursdays 2:00PM – 3:15PM
 ## Instructor:
 Albert Kochaphum (albertkun@oarc.ucla.edu)
 ## Office Hours:
-Tuesdays 4pm – 5pm and by appointment
+Fridays 4pm – 5pm and by [appointment](https://calendly.com/albertkun/office-hours)
 
 #### Please note: This syllabus is subject to change.
 
@@ -120,7 +120,7 @@ We all have gone through the same struggles learning new technology, and
 I strongly encourage you get help as often as possible. Steps for
 troubleshooting technical problems can often be solved by a quick online
 search or reviewing lab materials for a misstep. The class community
-discussion on Slack is another resource for help.
+discussion "Help Desk" category on [GitHub](https://github.com/albertkun/21S-191A/discussions/categories/help-desk) is another resource for help. If all else fails, do not hesitate to reach out to me.
 
 ## Assignments and Evaluation:
 
