@@ -14,7 +14,7 @@ Fridays 4pm – 5pm and by [appointment](https://calendly.com/albertkun/office-h
  by 03/30/2021 
 #### Please note: This syllabus is subject to change.
 
-<img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
+[<img src="media\image1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
 
 (Lam, C., Kochaphum, A., [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
