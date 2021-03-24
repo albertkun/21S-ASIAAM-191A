@@ -9,6 +9,9 @@ Albert Kochaphum (albertkun@oarc.ucla.edu)
 ## Office Hours:
 Fridays 4pm – 5pm and by [appointment](https://calendly.com/albertkun/office-hours)
 
+## Preperation:
+- Fill out the [pre-course survey] by 03/30/2021 (https://forms.gle/2VFUFsFRmz16dYm88)
+
 #### Please note: This syllabus is subject to change.
 
 <img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
