@@ -10,13 +10,13 @@ Albert Kochaphum (albertkun@oarc.ucla.edu)
 Fridays 4pm – 5pm and by [appointment](https://calendly.com/albertkun/office-hours)
 
 ## Preperation:
-- Fill out the [pre-course survey] by 03/30/2021 (https://forms.gle/2VFUFsFRmz16dYm88)
-
+- Fill out the [pre-course survey](https://forms.gle/2VFUFsFRmz16dYm88)
+ by 03/30/2021 
 #### Please note: This syllabus is subject to change.
 
 <img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
 
-(UCLA, [HateCrimeMap](https://www.hatecrimemap.com), 2020)
+(Lam, C., Kochaphum, A., [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
 “Maps have always been made; they may have been one of the first forms
 of human communication. Maps exist in many forms, can represent
