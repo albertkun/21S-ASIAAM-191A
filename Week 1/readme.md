@@ -35,17 +35,12 @@ Leave a reply on the posts of two other students, reflecting on what you think o
 
 See [how to submit thinking caps, part 2](../Guides/thinking_caps.md)
 
-- #### **Reading:**
+- #### **Finish the weekly reading**
+
+### **Weekly Reading:**
 > J. W. Crampton and J. Krygier (2010) “An Introduction to Critical Cartography”. https://www.researchgate.net/publication/241435510_An_Introduction_to_Critical_Cartography
 
 This 15-page article summarizes critical cartography by introducing ethics and modern mapmaking technologies. 
-
-### Due next Thursday 4/8
-- #### **Lab assignment #1**
-Finish the lab assignment and commit to your GitHub repository.
-- #### **Group assignment #1**
-Create a repository for your group and fill out the Group Project form.
-
 
 ## Optional Readings and Resources
 [Introduction to GIS](a_optional_gis.md)
