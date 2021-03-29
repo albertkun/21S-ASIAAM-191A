@@ -137,10 +137,14 @@ attend all lectures and labs each week.
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
-| Individual assignments         | 10                  | 45          | 450              | 45%             |
+| Individual assignments         | 15                  | 30          | 450              | 45%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
 | Group Project Assignments             | 4                   | 50         | 200              | 20%             |
 | Participation                  |                     |            | 100              | 10%             |
+
+### Extra Credit:
+Extra credit will be given to students that provide exceptional work or contributions throughout the course. Optional assignments are opportunities for extra credit as well.
+
 ### Course Expectations:
 
 UCLA’s Office for Equity, Diversity, and Inclusion provides resources,
@@ -155,8 +159,7 @@ I expect you to take advantage of the opportunities that this course
 offers you by being an active and thoughtful participant in all sections
 and lectures, by coming to lecture and section prepared, and by trying
 your best on the various elements of the course. I expect you to take
-ownership of your learning and to reach out to me or your teaching
-assistant if you are struggling or have concerns. I expect you to take
+ownership of your learning and to reach out to me if you are struggling or have concerns. I expect you to take
 the opportunity to learn from your peers through activities in lecture
 and section, and I expect you to be respectful and courteous to one
 another. Finally, I expect you to hold yourself to the highest standards
