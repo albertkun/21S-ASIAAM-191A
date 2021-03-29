@@ -142,6 +142,14 @@ attend all lectures and labs each week.
 | Group Project Assignments             | 4                   | 50         | 200              | 20%             |
 | Participation                  |                     |            | 100              | 10%             |
 
+### Participation:
+While participation is a bit subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
+  - Participating in class discussions 
+  - Asking questions on the GitHub discussion board 
+  - Helping other students on the discussion board
+  - Coming to office hours
+  - Overall class attendence
+
 ### Extra Credit:
 Extra credit will be given to students that provide exceptional work or contributions throughout the course. Optional assignments are opportunities for extra credit as well.
 
