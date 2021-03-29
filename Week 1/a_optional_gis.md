@@ -1,27 +1,13 @@
-# Introduction to GIS for the Social Sciences
-
-
-
-## Workshop Preparation
-
-You should download and install [QGIS version
-3.14](https://qgis.org/en/site/forusers/download.html) or higher to your
-computer.
-
-The datasets for the workshop are available in this [Box Folder
-Online](https://ucla.box.com/s/07ro0mhcixdd2ypgwweobe3bnrng7a3l).
-
-Download all the files and extract them.
 
 # Introduction to GIS
 
 What is GIS? Depending on who you ask, GIS has two meanings:
 
-Geographic Information System typically refers to applications and
+**Geographic Information System** typically refers to applications and
 software that is used to create spatial data and to investigate spatial
 relationships between that data.
 
-Geographic Information Science is the framework we use to ask questions
+**Geographic Information Science** is the framework we use to ask questions
 about the spatial relationship between data.
 
 For example, predicting the effects of climate change (rising
@@ -79,10 +65,7 @@ following graphic summarizes this relationship:
 There are several data spatial data models that you may encounter as you
 work with geo data. Geodata formats are commonly divided into two types,
 vector data or a raster data. In GIS, discrete data means that the data
-has a fixed location. Continuous data in GIS does not have well defined
-or no boundary at all, the most common example is elevation. The graphic
-below shows how vector data and raster data formats can represent
-continuous or discrete data:
+has a fixed location. Conversly, continuous data does not have well defined locations, a common example is elevation, where shorelines differ depending on the time of day. The graphic below shows how vector data and raster data formats can represent continuous or discrete data:
 
 ![alt text](media/image3.png)
 Spatial Data Types (Source: Michele Tobias, UC Davis)
@@ -108,7 +91,7 @@ Raster data represents continuous fields or discrete objects on a grid,
 storing measurements or category names in each cell of the grid.
 
 Digital photos are raster data you are already familiar with. If you
-zoom in far enough on a digital photo, you\'ll see that photo is made up
+zoom in far enough on a digital photo, you\'ll see that a photo is made up
 of pixels, which appear as colored squares. Pixels are cells in a
 regular grid and each contains the digital code that corresponds to the
 color that should be displayed there.
@@ -117,7 +100,7 @@ You may be surprised to see jpgs listed as a data type that you may have
 thought to be non-spatial, but satellite imagery is commonly stored in
 photo formats.
 
-## Introduction to GIS for the Social Sciences
+## GIS and Social Sciences
 
 Now that we have a good understanding of geospatial data, we can explore
 the GIS connection to the social sciences.
@@ -143,11 +126,8 @@ collected at smaller levels.
 
 How is that possible? The answer is geographical hierarchy.
 
-### 
 
 ### Geographic Hierarchy
-
-Move over Aristotle: The **sum** is the whole of its parts!
 
 The first law of Geography (and perhaps only) is "**everything is
 related to everything else, but nearer things are more related than
@@ -202,40 +182,15 @@ state. If you were to combine the voting data with a bigger geography
 that causes boundaries to overlap, then data will be double counted and
 will cause problems (and headaches!)
 
-What other ways could voter data be summarized to?
-
-Voting data can also be summarized at the county level, since counties
-do not overlap and these are still bigger than the precincts. When
-trying to aggregate data to the census tracts a major problem occurs,
-some precincts will overlap with many different census tracts! A special
-type of analysis, called a "weighted-merge" will need to be done in
-order to distribute the votes across census tracts accurately.
-
 Now that we have a better understanding of geospatial datasets, how it
 relates to the social sciences, and some of the problems associated with
 them, we can finally start to utilize spatial data.
 
-## Finding data
+![](media/image_pie.png)
+## Crowd-Sourced Data
 
-In this workshop, we will be answering the following question:
+Throughout the quarter we will be leveraging crowd-sourced data from others and/or community members. If you have a non-profit or political campaign in mind for the final project, then your data will be coming from those stakeholders. For the purposes of this lab we will be using the pre-course survey.
 
-Research Question: Which areas in Los Angeles have more than 25% of
-their population living in poverty?
-
-We will be using the following data:
-
--   Los Angeles 2010 Census Tracts
-
--   County Boundaries
-
-We are using the Census Tracts because those are how demographic data is
-collected in the United States.
-
-Data for mapping in the social sciences will commonly be found as
-standalone tables or vector data, and the best way to find these data is
-from authoritative sources, like the government, news organizations, and
-research groups.
-
-One good resource for summarized U.S. Census data is:
-<https://censusreporter.org/>
-
+### Other data sources
+Most data that is not crowdsourced, can be found through government data sources, news organizations, and
+research groups. You can even think about exploring actions like submitting California Public Records Act (PRA) requests to get data when it is inacessible. But all of these have caveats when it comes to who's story is being told and reflect some level of biases from data collection. This is why we are choosing to focus on how to map crowdsource data for this class.

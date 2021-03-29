@@ -1,6 +1,6 @@
 # Introduction to Spatial Data Management
 
-## Learn how to use QGIS
+## Learning how to use QGIS
 
 ### Cleaning up data in Excel
 

@@ -5,15 +5,18 @@ Asian American Studies Department, Spring 2021
 Tuesdays and Thursdays 2:00PM – 3:15PM
 
 ## Instructor:
-Albert Kochaphum (albertkun@idre.ucla.edu)
+Albert Kochaphum (albertkun@oarc.ucla.edu)
 ## Office Hours:
-Tuesdays 4pm – 5pm and by appointment
+Fridays 4pm – 5pm and by [appointment](https://calendly.com/albertkun/office-hours)
 
+## Preperation:
+- Fill out the [pre-course survey](https://forms.gle/2VFUFsFRmz16dYm88)
+ by 03/30/2021 
 #### Please note: This syllabus is subject to change.
 
-<img src="media\image1.png" style="width:5.06944in;height:2.56289in" />
+[<img src="media\image1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
 
-(UCLA, [HateCrimeMap](https://www.hatecrimemap.com), 2020)
+(Lam, C., Kochaphum, A., UCLA [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
 “Maps have always been made; they may have been one of the first forms
 of human communication. Maps exist in many forms, can represent
@@ -77,10 +80,9 @@ society, and 2) to apply an ethical mapping framework to such projects.
 
 ### Course materials
 
-> Chambers, Robert. "Participatory mapping and geographic information
-> systems: whose map? Who is empowered and who disempowered? Who gains
-> and who loses?." The Electronic Journal of Information Systems in
-> Developing Countries 25 (2006).
+> Dougherty, J. and Ilyankou, I. “Hands-On Data Visualization:
+> Interactive Storytelling from Spreadsheets to Code” O’Reilly Media, Inc. (2021). Available at https://handsondataviz.org/
+
 
 ### Remote Learning Expectations for Students
 
@@ -106,11 +108,10 @@ Basic Zoom protocols for this course are as follows:
 
 ### Lab Requirements
 
-Lab assignments will require use of a text-based coding environment,
-such as Microsoft Visual Studio Code in addition to QGIS (an open-source
-desktop GIS software). Please be sure to have required software
-installed prior to lab sessions. Reach out if there are any installation
-issues or concerns before labs.
+Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/). [Firefox](https://www.mozilla.org/en-US/firefox/new/), a modern web-browser with built-in debugging is highly recommended. [QGIS](https://www.qgis.org/) (open-source
+desktop GIS software) will be used for introducing GIS. Use of other software is allowed but not supported (i.e. you are on your own to troubleshoot).
+
+Please be sure to have required software installed prior to lab sessions. Reach out if there are any installation issues or concerns before labs.
 
 ### Lab Assistance
 
@@ -122,7 +123,7 @@ We all have gone through the same struggles learning new technology, and
 I strongly encourage you get help as often as possible. Steps for
 troubleshooting technical problems can often be solved by a quick online
 search or reviewing lab materials for a misstep. The class community
-discussion on Slack is another resource for help.
+discussion "Help Desk" category on [GitHub](https://github.com/albertkun/21S-191A/discussions/categories/help-desk) is another resource for help. If all else fails, do not hesitate to reach out to me.
 
 ## Assignments and Evaluation:
 
@@ -136,10 +137,10 @@ attend all lectures and labs each week.
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
-| Individual assignments         | 10                  | 40          | 400              | 40%             |
+| Individual assignments         | 10                  | 45          | 450              | 45%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
-| Group Project Assignments             | 4                   | 50         | 200              | 25%             |
-| Participation                  |                     |            | 150              | 10%             |
+| Group Project Assignments             | 4                   | 50         | 200              | 20%             |
+| Participation                  |                     |            | 100              | 10%             |
 ### Course Expectations:
 
 UCLA’s Office for Equity, Diversity, and Inclusion provides resources,
@@ -163,10 +164,11 @@ for academic honesty and integrity in your work.
 
 ## **Course Outline**
 ### Preperation:
-- Fill out the (pre-course survey)[https://cloud.albertmaps.com/apps/forms/DFs4qcqG5g4S9Jjk]
-- Download and install QGIS
-- Download and install VS Code
-If you have any issues with the above, please do not hesitate to contact me at albertkun@idre.ucla.edu.
+- Fill out the [pre-course survey](https://forms.gle/2VFUFsFRmz16dYm88)
+- Download and install [QGIS](https://qgis.org/en/site/forusers/download.html)
+- Download and install [VS Code](https://code.visualstudio.com/)
+
+If you have any issues with installing the above, please do not hesitate to contact me at albertkun@oarc.ucla.edu.
 
 
 <table>
@@ -269,7 +271,7 @@ If you have any issues with the above, please do not hesitate to contact me at a
 <tr class="odd">
 <td>10</td>
 <td>6/1</td>
-<td><strong>Looking ahead civil society and the future of mapping</strong></td>
+<td><strong>Looking ahead to civil society and the future of mapping</strong></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -295,5 +297,4 @@ I understand that sometimes life makes it difficult to focus on schoolwork. If y
 
 ### Academic Accommodations Based on a Disability 
 Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310)825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit [www.cae.ucla.edu](http://www.cae.ucla.edu).
-
 
