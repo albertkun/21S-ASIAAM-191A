@@ -197,7 +197,7 @@ If you have any issues with installing the above, please do not hesitate to cont
 <tr class="odd">
 <td>2</td>
 <td>4/6</td>
-<td><strong>Human-IT, ethics, and data</strong></td>
+<td><strong>Critical Cartography and Civil Society</strong></td>
 </tr>
 <tr class="even">
 <td></td>
