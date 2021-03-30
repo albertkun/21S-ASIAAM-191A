@@ -1,0 +1,19 @@
+# Guide for signing up to GitHub
+
+1.  Go to GitHub.com
+
+<img src="media\image1.png" style="width:6.5in;height:3.56944in" />
+
+2.  Click on Sign-up
+
+<img src="media\image2.png" style="width:6.5in;height:2.675in" />
+
+3.  Create an account:
+
+<img src="media\image3.png" style="width:3.45736in;height:4.00178in" />
+
+4.  Check your email to verify:
+
+<img src="media\image4.png" style="width:4.13954in;height:2.66133in" />
+
+5.  Remember your username and email! It will be necessary for setting up [GitSCM](gitscm.md)!

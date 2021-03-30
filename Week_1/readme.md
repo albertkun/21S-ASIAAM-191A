@@ -16,6 +16,12 @@ Unless specified otherwise, all assignments are **due at the beginning of class*
 ### Due Thursday 4/1:
 - #### [**Pre-lab #1**](1_pre_lab_1.md)
 Install the software required for the course ([QGIS](https://qgis.org/en/site/forusers/download.html), [Git SCM](https://git-scm.com/), [VS Code](https://code.visualstudio.com/)) and read pages [1](https://handsondataviz.org/believe.html) and [2](https://handsondataviz.org/persuasive.html) and [3](https://handsondataviz.org/shades.html) of "Hands on Data Viz".
+
+Please check the guides for help on:
+1. [How to sign-up for GitHub](../Guides/github_sign_up.md)
+2. [How to install GitSCM](../Guides/gitscm.md)
+
+Ask in the discussion forum or email the instructor directly for more help.
 ### Due  Monday 4/5 at 12am PST:
 - #### **"Thinking Cap" post**
 > What are problems with the way we use data and GIS?
