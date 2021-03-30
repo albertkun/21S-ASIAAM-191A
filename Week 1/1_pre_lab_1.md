@@ -15,4 +15,5 @@ computer.
 4. Sign-up with a [GitHub](https://github.com/) account
 5. Read the introduction pages 1-3 of [Hands On Data Viz](https://handsondataviz.org/introduction.html).
 
+
 If you have any trouble with these steps, be sure reach out to me [albertkun@idre.ucla.edu](mailto:albertkun@idre.ucla.edu) before the lab session.
