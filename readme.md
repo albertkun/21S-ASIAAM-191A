@@ -7,7 +7,7 @@ Tuesdays and Thursdays 2:00PM – 3:15PM
 ## Instructor:
 Albert Kochaphum (albertkun@oarc.ucla.edu)
 ## Office Hours:
-Fridays 4pm – 5pm and by [appointment](https://calendly.com/albertkun/office-hours)
+Fridays 3pm – 5pm and by [appointment](https://calendly.com/albertkun/office-hours)
 
 ## Preparation:
 - Fill out the [pre-course survey](https://forms.gle/2VFUFsFRmz16dYm88)
