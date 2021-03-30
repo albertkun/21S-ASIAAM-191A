@@ -21,7 +21,7 @@ Please check the guides for help on:
 1. [How to sign-up for GitHub](../Guides/github_sign_up.md)
 2. [How to install GitSCM](../Guides/gitscm.md)
 
-Ask in the discussion forum or email the instructor directly for more help.
+For more help ask in the discussion forum or email albertkun@oarc.ucla.edu.
 ### Due  Monday 4/5 at 12am PST:
 - #### **"Thinking Cap" post**
 > What are problems with the way we use data and GIS?

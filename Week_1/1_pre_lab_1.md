@@ -15,5 +15,8 @@ computer.
 4. Sign-up with a [GitHub](https://github.com/) account
 5. Read the introduction pages 1-3 of [Hands On Data Viz](https://handsondataviz.org/introduction.html).
 
+I have provided these guides to help on:
+1. [How to sign-up for GitHub](../Guides/github_sign_up.md)
+2. [How to install GitSCM](../Guides/gitscm.md)
 
-If you have any trouble with these steps, be sure reach out to me [albertkun@idre.ucla.edu](mailto:albertkun@idre.ucla.edu) before the lab session.
+If you have any further trouble with these steps, be sure reach out to me [albertkun@idre.ucla.edu](mailto:albertkun@idre.ucla.edu) before the lab session.
