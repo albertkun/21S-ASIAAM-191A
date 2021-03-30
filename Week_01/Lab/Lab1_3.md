@@ -1,5 +1,4 @@
 # Lab 1.3 “Hello World!” – QGIS Bootcamp
-- [Lab 1.3 “Hello World!” – QGIS Bootcamp](#lab-13-hello-world--qgis-bootcamp)
   - [Adding spatial data](#adding-spatial-data)
   - [Exploring spatial data attributes](#exploring-spatial-data-attributes)
   - [Adding a field](#adding-a-field)
