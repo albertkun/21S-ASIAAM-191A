@@ -1,24 +1,13 @@
 # Lab 1.3 “Hello World!” – QGIS Bootcamp
-Before we dive into web development and coding for the rest of the
-quarter, we will begin with learning how to handle spatial data. Finding
-a political campaign or social issue to address is usually the first
-step and you will be doing that at the end of today’s lab after finding
-your groups.
-
-<img src="media\image1.png" style="width:3.30233in;height:3.03773in" />
-
-We are starting with data management because using QGIS to handle data
-will form the foundations of working with data that we will eventually
-be web mapping.
-- [Lab 1.3 “Hello World!” – QGIS Bootcamp](#lab-13--hello-world-----qgis-bootcamp)
-  * [Adding spatial data](#adding-spatial-data)
-  * [Exploring spatial data attributes](#exploring-spatial-data-attributes)
-  * [Adding a field](#adding-a-field)
-  * [Symbolizing our map](#symbolizing-our-map)
-  * [Filtering our fields](#filtering-our-fields)
-  * [Saving Our Map Layer for Web Mapping](#saving-our-map-layer-for-web-mapping)
-  * [Adding non-spatial data](#adding-non-spatial-data)
-
+- [Lab 1.3 “Hello World!” – QGIS Bootcamp](#lab-13-hello-world--qgis-bootcamp)
+  - [Adding spatial data](#adding-spatial-data)
+  - [Exploring spatial data attributes](#exploring-spatial-data-attributes)
+  - [Adding a field](#adding-a-field)
+  - [Symbolizing our map](#symbolizing-our-map)
+  - [Filtering our fields](#filtering-our-fields)
+  - [Saving Our Map Layer for Web Mapping](#saving-our-map-layer-for-web-mapping)
+  - [Adding non-spatial data](#adding-non-spatial-data)
+  - [Lab Questions:](#lab-questions)
 
 ## Adding spatial data
 
