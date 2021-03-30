@@ -7,7 +7,7 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 Note: Slides will be made available after the lecture.
 
 ## Lab
-### GITing started with Spatial Data Sets
+### [GITing started with Spatial Data Sets](./Lab/readme.md)
 This lab will introduce GitHub and QGIS.
 
 ## Assignments
