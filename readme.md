@@ -308,4 +308,3 @@ I understand that sometimes life makes it difficult to focus on schoolwork. If y
 
 ### Academic Accommodations Based on a Disability 
 Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310)825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit [www.cae.ucla.edu](http://www.cae.ucla.edu).
-
