@@ -1,7 +1,7 @@
 # Introduction to Spatial Data Management
 
 1. Gitting Started with GitHub
-2. [“Hello World!” – QGIS Bootcamp](Lab1_3.md)
+2. [“Hello World!” – QGIS Bootcamp](Lab1_2.md)
 3. Group Project Time
 
 Before we dive into web development and coding for the rest of the
@@ -16,7 +16,7 @@ We are starting with data management because knowing how to use tools
 like QGIS to handle data will form the foundations of working with data
 that we will eventually be web mapping.
 
-## (Lab Assignment)[https://github.com/albertkun/21S-ASIAAM-191A-Assignments/tree/main/Week_01]:
+## [Lab Assignment](https://github.com/albertkun/21S-ASIAAM-191A-Assignments/tree/main/Week_01)
 ### Due Thursday 4/8:
 
 1.  Create a new field using two fields in the `CA_Counties_2019.shp` data set or another data set of your choosing.
@@ -27,4 +27,4 @@ that we will eventually be web mapping.
    -  What fields you used
    -  Why you used these fields
    -  What problems could the data set have
-4. Commit both `lab1.geojson` and `lab1.md` to your lab assignements repository.
+4. Commit both `lab1.geojson` and `lab1.md` to your lab assignments repository.
