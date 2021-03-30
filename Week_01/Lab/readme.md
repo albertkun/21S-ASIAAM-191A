@@ -16,7 +16,7 @@ We are starting with data management because knowing how to use tools
 like QGIS to handle data will form the foundations of working with data
 that we will eventually be web mapping.
 
-## (Lab Assignment)[https://github.com/albertkun/21S-ASIAAM-191A-Assignments/blob/main/Week01/README.md]:
+## (Lab Assignment)[https://github.com/albertkun/21S-ASIAAM-191A-Assignments/tree/main/Week_01]:
 ### Due Thursday 4/8:
 
 1.  Create a new field using two fields in the `CA_Counties_2019.shp` data set or another data set of your choosing.
