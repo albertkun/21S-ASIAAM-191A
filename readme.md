@@ -128,7 +128,7 @@ discussion "Help Desk" category on [GitHub](https://github.com/albertkun/21S-191
 ## Assignments and Evaluation:
 
 Students will be evaluated based on individual lab assignments,
-participation, and team based final project. Students are required to
+participation, and team based final project. Students are expected to
 attend all lectures and labs each week.
 
  * 45% = Group project and assignments
@@ -142,6 +142,7 @@ attend all lectures and labs each week.
 | Group Project Assignments             | 4                   | 50         | 200              | 20%             |
 | Participation                  |                     |            | 100              | 10%             |
 
+Detailed list of assignments can be found on this page.
 ### Participation:
 While participation is a bit subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
   - Participating in class discussions 
