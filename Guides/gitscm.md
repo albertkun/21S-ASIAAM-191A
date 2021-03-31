@@ -2,14 +2,10 @@
 
 1.  Go to: <https://git-scm.com/>
 
-> <img src="media\image1.png" style="width:6.5in;height:4.16944in" />
-
-2.  Download and install:
+1.  Download and install:
 
     A.  For PC:
-    -  Run the installer and go through the installation wizard:
-
-> <img src="media\image2.png" style="width:3.79845in;height:2.90469in" />
+    -  Run the installer and go through the installation wizard.
 
 B.  For Mac:
 - Open launcher and search “terminal”:
@@ -20,7 +16,7 @@ B.  For Mac:
 
 > <img src="media\image4.png" style="width:4.86822in;height:2.34884in" alt="brew install git - KodigoSwift" />
 
-3.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run `git --version` to test the installation:
+1.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run `git --version` to test the installation:
 
 > <img src="media\image5.png" style="width:4.09743in;height:0.98616in" />
 -  If it is working, move to **step 4**
