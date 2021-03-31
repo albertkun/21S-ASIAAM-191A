@@ -6,7 +6,7 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 
 Note: Slides will be made available after the lecture.
 
-[Lecture 1 Slides](AA191_S_W1_Lecture_1.pdf
+[Lecture 1 Slides](./Materials/AA191_S_W1_Lecture_1.pdf
 )
 
 [Lecture 1 Recording](https://ucla.zoom.us/rec/share/HuP2yv24GwjVpvclpqBeRUKCO-FoYK3WAVNtWd_ekZOQh6jQOAaX0o3YdNyRWUmy.MWFkQq-g0tsAaftY
@@ -19,14 +19,14 @@ This lab will introduce GitHub and QGIS.
 Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
 
 ### Due Thursday 4/1:
-- #### [**Pre-lab #1**](1_pre_lab_1.md)
+- #### [**Pre-lab #1**](./Materials/1_pre_lab_1.md)
 Install the software required for the course ([QGIS](https://qgis.org/en/site/forusers/download.html), [Git SCM](https://git-scm.com/), [VS Code](https://code.visualstudio.com/)) and read pages [1](https://handsondataviz.org/believe.html) and [2](https://handsondataviz.org/persuasive.html) and [3](https://handsondataviz.org/shades.html) of "Hands on Data Viz".
 
 Please check the guides for help on:
 1. [How to sign-up for GitHub](../Guides/github_sign_up.md)
 2. [How to install GitSCM](../Guides/gitscm.md)
 
-[Click for more pre-lab information](1_pre_lab_1.md).
+[Click for more pre-lab information](./Materials/1_pre_lab_1.md).
 ### Due  Monday 4/5 at 12am PST:
 - #### **"Thinking Cap" post**
 > What are problems with the way we use data and GIS?
@@ -50,10 +50,12 @@ See [how to submit thinking caps, part 2](../Guides/thinking_caps.md)
 ### **Weekly Reading:**
 > J. W. Crampton and J. Krygier (2010) “An Introduction to Critical Cartography”. https://www.researchgate.net/publication/241435510_An_Introduction_to_Critical_Cartography
 
-This 15-page article summarizes critical cartography by introducing ethics and modern mapmaking technologies. 
+This 15-page article summarizes critical cartography by introducing ethics and modern mapmaking technologies.
+
+[Local PDF](/Materials/3_An_Introduction_to_Critical_Cartography)
 
 ## Optional Readings and Resources
-[Introduction to GIS](a_optional_gis.md)
+[Introduction to GIS](./Materials/a_optional_gis.md)
 
 ## Definitions
 **GIS** - Geographic Information Systems or Science
