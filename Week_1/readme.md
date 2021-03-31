@@ -6,8 +6,9 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 
 Note: Slides will be made available after the lecture.
 
-[Lecture 1 Slides](https://ucla.zoom.us/rec/share/HuP2yv24GwjVpvclpqBeRUKCO-FoYK3WAVNtWd_ekZOQh6jQOAaX0o3YdNyRWUmy.MWFkQq-g0tsAaftY
+[Lecture 1 Slides](AA191_S_W1_Lecture_1.pdf
 )
+
 [Lecture 1 Recording](https://ucla.zoom.us/rec/share/HuP2yv24GwjVpvclpqBeRUKCO-FoYK3WAVNtWd_ekZOQh6jQOAaX0o3YdNyRWUmy.MWFkQq-g0tsAaftY
 )
 ## Lab

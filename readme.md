@@ -7,11 +7,15 @@ Tuesdays and Thursdays 2:00PM – 3:15PM
 ## Instructor:
 Albert Kochaphum (albertkun@oarc.ucla.edu)
 ## Office Hours:
-Fridays 3pm – 5pm and by [appointment](https://calendly.com/albertkun/office-hours)
+Fridays 3pm – 5pm and by appointment:
+- https://calendly.com/albertkun/office-hours
 
 ## Preparation:
 - Fill out the [pre-course survey](https://forms.gle/2VFUFsFRmz16dYm88)
  by 03/30/2021 
+
+
+[Static Syllabus in PDF form](AAS-191A-SP21_Syllabus_2021.pdf)
 #### Please note: This syllabus is subject to change.
 
 [<img src=".\Guides\media\syllabus1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
