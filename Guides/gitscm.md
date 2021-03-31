@@ -10,11 +10,8 @@
 B.  For Mac:
 - Open launcher and search “terminal”:
 
-> <img src="media\image3.jpg" style="width:4.31008in;height:2.73034in" alt="Graphical user interface Description automatically generated" />
-
 - In the terminal then type run `brew install git`:
 
-> <img src="media\image4.png" style="width:4.86822in;height:2.34884in" alt="brew install git - KodigoSwift" />
 
 1.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run `git --version` to test the installation:
 
