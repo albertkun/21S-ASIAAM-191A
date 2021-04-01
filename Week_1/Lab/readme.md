@@ -11,6 +11,7 @@
 3. **Group Project Time**
    - [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1B5QTtB3iDFuOXT3z6kv1Dwr1eNku9AeVAHF55YEZXFs/edit?usp=sharing)
    - [Group Assignment #1](../3_group_project.md)
+4. **[Lab Assignment](https://github.com/albertkun/21S-ASIAAM-191A-Assignments/tree/main/Week_01)**
 
 Before we dive into web development and coding for the rest of the
 quarter, we will begin with learning how to handle spatial data. Finding
