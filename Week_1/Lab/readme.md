@@ -1,4 +1,4 @@
-# Introduction to Spatial Data Management
+# GITing started with Spatial Data Sets
 
 1. **Gitting Started with GitHub**
    - [Guide on Git Cloning](../../Guides/git_cloning.md)
