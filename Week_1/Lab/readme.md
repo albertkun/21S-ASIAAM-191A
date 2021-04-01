@@ -1,8 +1,13 @@
 # Introduction to Spatial Data Management
 
-1. Gitting Started with GitHub
-2. [“Hello World!” – QGIS Bootcamp](Lab1_2.md)
-3. Group Project Time
+1. **Gitting Started with GitHub**
+   - [Guide on Git Cloning](../../Guides/git_cloning.md)
+   - [Guide on Git Forking](../../Guides/git_forking.md)
+   - [Guide on making a GitHub repository and adding team members](../../Guides/git_creating.md)
+2. **[“Hello World!” – QGIS Bootcamp](Lab1_2.md)**
+3. **Group Project Time**
+   - [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1B5QTtB3iDFuOXT3z6kv1Dwr1eNku9AeVAHF55YEZXFs/edit?usp=sharing)
+   - [Group Assignment #1](../3_group_project.md)
 
 Before we dive into web development and coding for the rest of the
 quarter, we will begin with learning how to handle spatial data. Finding
