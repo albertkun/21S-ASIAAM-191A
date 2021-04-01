@@ -399,12 +399,11 @@ found. We will do a population density calculation, which is simply
     export them in a spatial data type format, such as shapefile or
     GeoJSON to do so.
 
-80. Congratulations on finishing the spatial data management lab.
+80. Congratulations on finishing the spatial data management QGIS bootcamp.
 
 ## Lab Questions: 
 
-Please take some time to answer the following questions and include them
-in your “Thinking Cap” response for the week.
+Please take some time to think about the following questions, they may be helpful when you are discussing your “Thinking Cap” response for this week.  
 
 1.  ## What changes did we make to the original data?
 
