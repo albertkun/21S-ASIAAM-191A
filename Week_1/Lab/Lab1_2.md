@@ -405,6 +405,6 @@ found. We will do a population density calculation, which is simply
 
 Please take some time to think about the following questions, they may be helpful when you are discussing your “Thinking Cap” response for this week.  
 
-1.  ## What changes did we make to the original data?
+1.  What changes did we make to the original data?
 
-2.  ## How can the choices we made in changing the data be problematic?
+2.  How can the choices we made in changing the data be problematic?
