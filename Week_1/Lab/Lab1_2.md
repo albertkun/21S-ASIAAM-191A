@@ -6,7 +6,7 @@
   - [Filtering our fields](#filtering-our-fields)
   - [Saving Our Map Layer for Web Mapping](#saving-our-map-layer-for-web-mapping)
   - [Adding non-spatial data](#adding-non-spatial-data)
-  - [Lab Questions:](#lab-questions)
+  - [Lab Questions](#lab-questions)
 
 ## Adding spatial data
 
@@ -48,13 +48,11 @@
 
 <img src="media\image9.png" style="" />
 
-9.  You can click on the headers to sort, so let’s find the most
-    populous country in the world by scrolling to `**TOTAL_POP**` and
-    clicking on it:
+1.  You can click on the headers to sort, so let’s find the most populous county in  California by scrolling to `**TOTAL_POP**` and clicking on it:
 
 <img src="media\image10.png" style="" />
 
-10. We can highlight the country by click on the number box with the
+10. We can highlight the county by click on the number box with the
     number 1 next to it:
 
 <img src="media\image11.png" style="" />
@@ -326,65 +324,64 @@ Since bigger areas are most likely to have more people, we need to factor that i
 
 <img src="media\image69.png" style="" />
 
-68. The preferred spatial format online is a GeoJSON file:
+66. The preferred spatial format online is a GeoJSON file:
 
 <img src="media\image70.png" style="" />
 
-69. Click the `…` next to `File Name` to find a nice new home for your GeoJSON file!
+67. Click the `…` next to `File Name` to find a nice new home for your GeoJSON file!
 
 <img src="media\image71.png" style="" />
 
-70. Your final box should look like this:
+68. Your final box should look like this:
 
-    1.  Format: GeoJSON
+- Format: GeoJSON
 
-    2.  File name: CA_counties_with_over_100k_Asians.geojson
+- File name: CA_counties_with_over_100k_Asians.geojson
 
 <img src="media\image72.png" style="" />
 
-1.  Congratulations! You have created your first `GeoJSON` file! We will revisit this file in next week’s lab, so keep it safe and sound!
+69.  Congratulations! You have created your first `GeoJSON` file! We will revisit this file in next week’s lab, so keep it safe and sound!
 
 ## Adding non-spatial data
 
-72. You can also add CSV files by clicking `Layer`
+70. You can also add CSV files by clicking `Layer`
 
 <img src="media\image73.png" style="" />
 
-73. Click on `Add Layer` `Add Delimited Text Layer...`
+71. Click on `Add Layer` `Add Delimited Text Layer...`
 
 <img src="media\image74.png" style="" />
 
-74. To the far right of `File Name`, click on the button with `…`:
+72. To the far right of `File Name`, click on the button with `…`:
 
 <img src="media\image75.png" style="" />
 
-75. Locate the file for California Asian American Hate Crimes,
+73. Locate the file for California Asian American Hate Crimes,
     CA_AAHC_2021.csv and select it and choose `Open`:
 
 <img src="media\image76.png" style="" />
 
-76. Check to make sure `Point` coordinates and a coordinate reference
+74. Check to make sure `Point` coordinates and a coordinate reference
     system exists:
 
 <img src="media\image77.png" style="" />
 
-77. Click `Add` and then `Close`:
+75. Click `Add` and then `Close`:
 
 <img src="media\image78.png" style="" />
 
-78. The data points should now show up:
+76. The data points should now show up:
 
 <img src="media\image79.png" style="" />
 
-79. Note that you will not be able to edit CSV files, you will need to
-    export them in a spatial data type format, such as shapefile or
-    GeoJSON to do so.
+77. Note that you will not be able to edit CSV files, you will need to
+    export them in a spatial data type format, such as shapefile or GeoJSON to do so.
 
-80. Congratulations on finishing the spatial data management QGIS bootcamp.
+78. Congratulations on finishing the spatial data management QGIS bootcamp.
 
-## Lab Questions: 
+## Lab Questions
 
-Please take some time to think about the following questions, they may be helpful when you are discussing your `Thinking Cap` response for this week.  
+Please take some time to think about the following questions, they may be helpful when you are posting your Thinking Cap response for this week.  
 
 1.  What changes did we make to the original data?
 
