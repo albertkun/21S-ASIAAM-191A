@@ -2,18 +2,18 @@
 
 1.  Go to GitHub.com
 
-<img src="media\image1.png" style="width:6.5in;height:3.56944in" />
+<img src="media\image1.png" />
 
 2.  Click on Sign-up
 
-<img src="media\image2.png" style="width:6.5in;height:2.675in" />
+<img src="media\image2.png" />
 
 3.  Create an account:
 
-<img src="media\image3.png" style="width:3.45736in;height:4.00178in" />
+<img src="media\image3.png" />
 
 4.  Check your email to verify:
 
-<img src="media\image4.png" style="width:4.13954in;height:2.66133in" />
+<img src="media\image4.png" />
 
 5.  Remember your username and email! It will be necessary for setting up [GitSCM](gitscm.md)!

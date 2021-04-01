@@ -6,93 +6,93 @@
 
 2.  Click on the “Fork” button.
 
-> <img src="media\image1.png" style="width:6.5in;height:1.90903in" />
+> <img src="media\git_forking1.png"  />
 
 3.  Go to **your** cloned repository:
 
 4.  Click on
-    “Code”<img src="media\image2.png" style="width:6.5in;height:1.52778in" />
+    “Code”<img src="media\git_forking2.png"  />
 
 5.  Click on “Copy”
 
-> <img src="media\image3.png" style="width:6.5in;height:1.52778in" />
+> <img src="media\git_forking3.png"  />
 
 6.  Click “Clone Repository”
 
-> <img src="media\image4.png" style="width:6.5in;height:4.31667in" />
+> <img src="media\git_forking4.png"  />
 
 7.  Paste your copied forked repository:
 
-> <img src="media\image5.png" style="width:6.5in;height:4.31667in" />
+> <img src="media\git_forking5.png"  />
 
 8.  Open the cloned repo:
 
-> <img src="media\image6.png" style="width:6.5in;height:4.31667in" />
+> <img src="media\git_forking6.png"  />
 
 9.  Click on Terminal:
 
-> <img src="media\image7.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking7.png"  />
 
 10. Open a **New Terminal**:
 
-> <img src="media\image8.png" style="width:6.5in;height:3.41806in" />
+> <img src="media\git_forking8.png"  />
 
 11. Run the following “git remote add upstream
     https://github.com/albertkun/21S-ASIAAM191A-Assignments.git”
 
-> <img src="media\image9.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking9.png"  />
 
 12. Run “git remote –v” to check:
 
-> <img src="media\image10.png" style="width:6.5in;height:1.97778in" />
+> <img src="media\git_forking10.png"  />
 
 Getting New Assignments:
 
 13. To get new assignments run “git pull upstream main”
 
-> <img src="media\image11.png" style="width:6.5in;height:2.69722in" />
+> <img src="media\git_forking11.png"  />
 
 Submitting Assignments:
 
 14. Click on the Explorer:
 
-> <img src="media\image12.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking12.png"  />
 
 15. Got to week 1:
 
-> <img src="media\image13.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking13.png"  />
 
 16. Click on the readme.md:
 
-> <img src="media\image14.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking14.png"  />
 
 17. Go ahead an make a new file by clicking on the new file icon:
 
-> <img src="media\image15.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking15.png"  />
 
 18. Name it lab1.md:
 
-> <img src="media\image16.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking16.png"  />
 
 19. Finish the lab by answering the questions and adding your GeoJSON
     file to this same folder.
 
-> <img src="media\image17.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking17.png"  />
 
 20. Enter a commit message:
 
-> <img src="media\image18.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking18.png"  />
 
 21. Press the Check mark or Alt + Enter to commit:
 
-> <img src="media\image19.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking19.png"  />
 
 22. Click the expand menu button:
 
-> <img src="media\image20.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking20.png"  />
 
 23. Click “push”
 
-> <img src="media\image21.png" style="width:6.5in;height:3.47292in" />
+> <img src="media\git_forking21.png"  />
 
 24. Congrats you have submitted the assignment!
