@@ -1,6 +1,6 @@
 # GITing started with Spatial Data Sets
 
-1. **Gitting Started with GitHub**
+1. **Git down with GitHub**
    - [Guide on Git Cloning](../../Guides/git_cloning.md)
    - [Guide on Git Forking](../../Guides/git_forking.md)
    - [Guide on making a GitHub repository and adding team members](../../Guides/git_creating.md)
