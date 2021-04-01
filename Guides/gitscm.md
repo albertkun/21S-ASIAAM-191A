@@ -11,8 +11,10 @@
     B.  For Mac:
     - Open launcher and search “terminal”:
     <img src="media\gitcsm_mac_terminal.jpg" style="width:4.09743in;height:0.98616in" />
+
     - In the terminal then type run `brew install git`:
     <img src="media\terminalup.png" style="width:4.09743in;height:0.98616in" />
+    
     - On Macs make sure you have [Homebrew installed](https://brew.sh/)
 
 2.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run `git --version` to test the installation: 
