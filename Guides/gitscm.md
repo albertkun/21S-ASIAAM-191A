@@ -7,6 +7,7 @@
     A.  For PC:
     -  Run the installer and go through the installation wizard.
     <img src="media\gitInstall.png" style="width:4.09743in;height:0.98616in" />
+
     B.  For Mac:
     - Open launcher and search “terminal”:
 <img src="media\gitcsm_mac_terminal.jpg" style="width:4.09743in;height:0.98616in" />
