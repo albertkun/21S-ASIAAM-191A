@@ -5,6 +5,9 @@
    - [Guide on Git Forking](../../Guides/git_forking.md)
    - [Guide on making a GitHub repository and adding team members](../../Guides/git_creating.md)
 2. **[“Hello World!” – QGIS Bootcamp](Lab1_2.md)**
+   - [California Counties](https://data.edd.ca.gov/Shapefiles/California-Counties/grn2-ffzq)
+   - [California Asian American Hate Crime Google Form](https://docs.google.com/forms/d/1kkLiawhn1tljl_m1ty1SKhx1uOLfLndbbV_BAf7v1Vo/edit) 
+   - [Spreadsheet](https://docs.google.com/spreadsheets/d/1aZND7CaqvhoeqFeCamnn2jxW9Io7aA05OA5PHmn2sI4/edit?usp=sharing)
 3. **Group Project Time**
    - [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1B5QTtB3iDFuOXT3z6kv1Dwr1eNku9AeVAHF55YEZXFs/edit?usp=sharing)
    - [Group Assignment #1](../3_group_project.md)
