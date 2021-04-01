@@ -1,4 +1,4 @@
-# Lab 1.3 “Hello World!” – QGIS Bootcamp
+# Lab 1.2 “Hello World!” Spatial Data Management QGIS Bootcamp
   - [Adding spatial data](#adding-spatial-data)
   - [Exploring spatial data attributes](#exploring-spatial-data-attributes)
   - [Adding a field](#adding-a-field)
