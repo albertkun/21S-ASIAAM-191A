@@ -10,7 +10,7 @@
 
 ## Adding spatial data
 
->**Important:** Before starting this lab, you must have completed the pre-lab. This means you should have already installed QGIS and have a local copy of the lab.
+>**Important:** Before starting this lab, you must have completed the pre-lab and part 1. This means you should have already installed QGIS and a local copy the lab.
 
 1.  Click on “Layer”
 
