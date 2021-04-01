@@ -1,7 +1,7 @@
 # Guide for creating repo
 
-1.  After logging in to GitHub click the plus icon and choose “New
-    repository”:
+1.  After logging in to GitHub click the plus icon and choose `New
+    repository`:
 
 > <img src="media\git_creating1.png"  />
 
@@ -9,7 +9,7 @@
 
 > <img src="media\git_creating2.png"  />
 
-3.  Click “Create Repository”:
+3.  Click `Create Repository`:
 
 > <img src="media\git_creating3.png"  />
 
@@ -42,7 +42,7 @@ Adding your partners as collaborators
 10. Remember to clone the repository locally and start collaborating!
 
 11. Also, remember that if you do not update your repository and/or push
-    your changes, you may run into “merge conflicts”.
+    your changes, you may run into `merge conflicts`.
 
 12. If you do, you have two options, let only one person handle the
     editing for now or check out this article on merge conflicts:

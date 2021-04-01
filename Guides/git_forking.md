@@ -4,20 +4,20 @@
 
 > <https://github.com/albertkun/21S-ASIAAM-191A-Assignments/>
 
-2.  Click on the “Fork” button.
+2.  Click on the `Fork` button.
 
 > <img src="media\git_forking1.png"  />
 
 3.  Go to **your** cloned repository:
 
 4.  Click on
-    “Code”<img src="media\git_forking2.png"  />
+    `Code`<img src="media\git_forking2.png"  />
 
-5.  Click on “Copy”
+5.  Click on `Copy`
 
 > <img src="media\git_forking3.png"  />
 
-6.  Click “Clone Repository”
+6.  Click `Clone Repository`
 
 > <img src="media\git_forking4.png"  />
 
@@ -37,18 +37,18 @@
 
 > <img src="media\git_forking8.png"  />
 
-11. Run the following “git remote add upstream
-    https://github.com/albertkun/21S-ASIAAM191A-Assignments.git”
+11. Run the following `git remote add upstream
+    https://github.com/albertkun/21S-ASIAAM191A-Assignments.git`
 
 > <img src="media\git_forking9.png"  />
 
-12. Run “git remote –v” to check:
+12. Run `git remote –v` to check:
 
 > <img src="media\git_forking10.png"  />
 
 Getting New Assignments:
 
-13. To get new assignments run “git pull upstream main”
+13. To get new assignments run `git pull upstream main`
 
 > <img src="media\git_forking11.png"  />
 
@@ -91,7 +91,7 @@ Submitting Assignments:
 
 > <img src="media\git_forking20.png"  />
 
-23. Click “push”
+23. Click `push`
 
 > <img src="media\git_forking21.png"  />
 
