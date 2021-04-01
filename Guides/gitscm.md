@@ -5,14 +5,18 @@
 1.  Download and install:
 
     A.  For PC:
-    -  Run the installer and go through the installation wizard. <img src="media\gitInstall.png" style="width:4.09743in;height:0.98616in" />
+    -  Run the installer and go through the installation wizard. 
+    -  <img src="media\gitInstall.png" style="width:4.09743in;height:0.98616in" />
 
     B.  For Mac:
-    - Open launcher and search “terminal”:<img src="media\gitcsm_mac_terminal.jpg" style="width:4.09743in;height:0.98616in" />
-    - In the terminal then type run `brew install git`:<img src="media\terminalup.png" style="width:4.09743in;height:0.98616in" />
+    - Open launcher and search “terminal”:
+    <img src="media\gitcsm_mac_terminal.jpg" style="width:4.09743in;height:0.98616in" />
+    - In the terminal then type run `brew install git`:
+    <img src="media\terminalup.png" style="width:4.09743in;height:0.98616in" />
     - On Macs make sure you have [Homebrew installed](https://brew.sh/)
 
-2.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run `git --version` to test the installation: <img src="media\image5.png" style="width:4.09743in;height:0.98616in" />
+2.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run `git --version` to test the installation: 
+    <img src="media\image5.png" style="width:4.09743in;height:0.98616in" />
      - If it is working, move to **step 4**
      - If it is not working, send an email or post on the GitHub discussion board.
 
