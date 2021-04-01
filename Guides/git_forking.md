@@ -37,8 +37,7 @@
 
 > <img src="media\git_forking8.png"  />
 
-11. Run the following `git remote add upstream
-    https://github.com/albertkun/21S-ASIAAM191A-Assignments.git`
+11. Run the following `git remote add upstream https://github.com/albertkun/21S-ASIAAM-191A-Assignments.git`
 
 > <img src="media\git_forking9.png"  />
 
