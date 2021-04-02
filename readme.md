@@ -1,4 +1,6 @@
-# Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society
+# Welcome to the Class Repository for Asian Am 191A – Web Development and GIS for Social Change 
+The Assignment repo can be found here:
+https://github.com/albertkun/21S-ASIAAM-191A-Assignments
 
 Asian American Studies Department, Spring 2021
 
