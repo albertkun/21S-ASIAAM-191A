@@ -5,6 +5,8 @@
  - 3 to 5 sentences minimum
  - Feel free to include links and images
 
+Reflect on what we covered this week in regards data and GIS. What problems do these technology's pose? For whom is the problematic for? It may be helpful to review the slides or readings for the class. 
+
 ## 2. Find 2 other discussion posts and comment on them.
  - Try to respond to students posts with no replies.
     
