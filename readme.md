@@ -2,7 +2,8 @@
 Welcome to the Class repo for Welcome to the Class Repository for Asian Am 191A – Web Development and GIS for Social Change. 
 
 The Lab Assignment repo to [fork](/Guides/git_forking.md) can be found here:
-https://github.com/albertkun/21S-ASIAAM-191A-Assignments
+
+[https://github.com/albertkun/21S-ASIAAM-191A-Assignments](https://github.com/albertkun/21S-ASIAAM-191A-Assignments)
 
 Asian American Studies Department, Spring 2021
 
