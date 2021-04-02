@@ -1,5 +1,5 @@
 #  Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society 
-Welcome to the Class repo for Welcome to the Class Repository for Asian Am 191A – Web Development and GIS for Social Change. 
+Welcome to the class repository for Asian Am 191A. 
 
 The Lab Assignment repo to [fork](/Guides/git_forking.md) can be found here:
 
