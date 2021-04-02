@@ -13,8 +13,9 @@ Note: Slides will be made available after the lecture.
 )
 ## Lab
 ### [GITing started with Spatial Data Sets](./Lab/readme.md)
-[Lecture 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf
+[Lab 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf
 )
+
 This lab will introduce GitHub and QGIS.
 
 ## Assignments
