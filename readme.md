@@ -5,6 +5,7 @@ The Lab Assignment repo to [fork](/Guides/git_forking.md) can be found here:
 
 [https://github.com/albertkun/21S-ASIAAM-191A-Assignments](https://github.com/albertkun/21S-ASIAAM-191A-Assignments)
 
+## Class Details
 Asian American Studies Department, Spring 2021
 
 Tuesdays and Thursdays 2:00PM – 3:15PM
