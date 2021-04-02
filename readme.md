@@ -13,7 +13,7 @@ Tuesdays and Thursdays 2:00PM – 3:15PM
 ## Instructor:
 Albert Kochaphum (albertkun@oarc.ucla.edu)
 ## Office Hours:
-Fridays 3pm – 5pm and by appointment:
+[Fridays 3pm – 5pm](https://moodle2.sscnet.ucla.edu/mod/zoom/view.php?id=710586) and by appointment below:
 - https://calendly.com/albertkun/office-hours
 
 ## Preparation:
