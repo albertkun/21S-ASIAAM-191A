@@ -3,14 +3,16 @@
 
 1. Download and install [FireFox](https://www.mozilla.org/en-US/firefox/new/)`*`.
 2. Install the [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension for VS Code.
-3. ["git pull upstream main" in assignment repo for week 2](../../Guides/git_fetch_remote_upstream.md)
-4. [Read the Live Share guide](../../Guides/live_share.md)
+3. "git pull upstream main" in assignment repo for week 2
+ - [See guide for more help](../../Guides/git_fetch_remote_upstream.md)
+4. Familiarize yourself with Live Share
+ - See the guide for more info guide](../../Guides/live_share.md)
 5. Read [Hands On Data Viz - Edit and Host Code with GitHub](https://handsondataviz.org/github.html)
 6. Read [The web and web standards](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)
 
 ### Optional: 
 Familiarize yourself with VS Code by:
-- Watching this [intro video](https://www.youtube.com/watch?v=S320N3sxinE)
+- Watching this [intro video](https://www.youtube.com/watch?v=S320N3sxinE) (5 minutes)
 - Skimming the [User Interface documentation](https://code.visualstudio.com/docs/getstarted/userinterface)
 
 
