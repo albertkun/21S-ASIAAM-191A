@@ -2,6 +2,8 @@
 
 ## Lecture
 - [Lecture 2 Slides](./Materials/AA191_S_W1_Lecture_1.pdf)
+- [Discussion questions](https://docs.google.com/document/d/10nwVUy8EigpqCpTYV1ZZI86MuBjHWnAHLWkuYlnaBAo/edit?usp=sharing
+)
 
 ### Visiting Voices: Mariah Tso
 ![.\Materials/media/mariahtso.jpg](./Materials/media/mariahtso.jpg)
