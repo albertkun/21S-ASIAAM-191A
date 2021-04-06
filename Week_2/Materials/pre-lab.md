@@ -14,4 +14,4 @@ Familiarize yourself with VS Code by:
 - Skimming the [User Interface documentation](https://code.visualstudio.com/docs/getstarted/userinterface)
 
 
-* If you already use FireFox as your main browser, consider downloading [FireFox Development Edition](https://www.mozilla.org/en-US/firefox/developer/) or [Google Chrome](https://www.google.com/chrome/index.html), as it always good practice to have multiple browsers for testing. [See this course reader appendix on troubleshooting as for more information as to why](https://handsondataviz.org/fix-browser.html).
+`*` If you already use FireFox as your main browser, consider downloading [FireFox Development Edition](https://www.mozilla.org/en-US/firefox/developer/) or [Google Chrome](https://www.google.com/chrome/index.html), as it always good practice to have multiple browsers for testing. [See this course reader appendix on troubleshooting as for more information as to why](https://handsondataviz.org/fix-browser.html).
