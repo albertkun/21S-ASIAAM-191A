@@ -3,7 +3,7 @@
 
 1. Download and install [FireFox](https://www.mozilla.org/en-US/firefox/new/)`*`.
 2. Install the [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension for VS Code.
-3. "git pull upstream main" in assignment repo for week 2
+3. `git pull upstream main` in assignment repo for week 2
     - [See the update guide for more info](../../Guides/git_fetch_remote_upstream.md)
 4. Familiarize yourself with Live Share
     - [See the Live Share guide for more info](../../Guides/live_share.md)
