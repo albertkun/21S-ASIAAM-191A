@@ -8,4 +8,7 @@
 [https://docs.google.com/spreadsheets/d/1B5QTtB3iDFuOXT3z6kv1Dwr1eNku9AeVAHF55YEZXFs/edit#gid=0](https://docs.google.com/spreadsheets/d/1B5QTtB3iDFuOXT3z6kv1Dwr1eNku9AeVAHF55YEZXFs/edit#gid=0)
 ![./media/group_fill_out.png](./Materials/media/group_fill_out.png)
 
+[See a guide on how to create a new repo](../../Guides/git_creating.md) 
+
+
 **Extra Credit**: Reach out to a non-profit organization that your crowd-sourced mapping application could help support and incorporate them into the write-up.
