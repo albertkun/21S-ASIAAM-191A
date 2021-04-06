@@ -1,4 +1,5 @@
-# Guide for creating repo
+# Guide for creating a repository
+This guide is designed to show you how to create a repository and add group members.
 
 1.  After logging in to GitHub click the plus icon and choose `New
     repository`:
@@ -13,7 +14,7 @@
 
 > <img src="media\git_creating3.png"  />
 
-Adding your partners as collaborators
+## Adding your partners as collaborators
 
 4.  Go to settings:
 
@@ -41,11 +42,12 @@ Adding your partners as collaborators
 
 10. Remember to clone the repository locally and start collaborating!
 
-11. Also, remember that if you do not update your repository and/or push
-    your changes, you may run into `merge conflicts`.
+## Warnings about "Merge Conflicts"
+11. If you do not use `git pull` to update periodically update repository and/or push
+    your changes, you may run into `merge conflicts` when two files are being edited at the same time.
 
-12. If you do, you have two options, let only one person handle the
-    editing for now or check out this article on merge conflicts:
+12. If you do run into a `merge conflict`, someone should merge the
+    conflicting files. Please or check out this article on merge conflicts:
 
 <https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/addressing-merge-conflicts>
 
