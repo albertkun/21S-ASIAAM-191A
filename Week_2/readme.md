@@ -1,7 +1,7 @@
 # Week 2 - Humanizing Technology: Critical Cartography
 
 ## Lecture
-- [Lecture 2 Slides](./Materials/AA191_S_W1_Lecture_1.pdf)
+- [Lecture 2 Slides](./Materials/AA191_S_W2_Lecture_2.pdf)
 - [Discussion questions](https://docs.google.com/document/d/10nwVUy8EigpqCpTYV1ZZI86MuBjHWnAHLWkuYlnaBAo/edit?usp=sharing
 )
 - [Mini-Lab: Creating a repo!](../Guides/git_creating.md)
