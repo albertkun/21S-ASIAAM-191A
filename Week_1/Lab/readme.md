@@ -42,6 +42,7 @@ that we will eventually be web mapping.
 ## Group Assignment: Project Idea
 ### Due Thursday 4/8:
 1. Have one person create a new repo for the group.
+- [Guide on how to create a new repo and invite](../../Guides/git_creating.md) 
 2. Add a `readme.md` to the repository that describes the following:
    - What social problem is being addressed, - The local community or non-profit that is being empowered by your application
    - What problems you think may arise in developing this application (both technical and ethical).
