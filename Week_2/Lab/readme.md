@@ -116,12 +116,17 @@ That's cool! But this way of using CSS, called inline CSS can make your HTML fil
 
 ### Adding linked CSS
 Click the new folder button:
+
 ![](media/new_folder.png)
 Highlight the `style` folder by clicking on it:
+
 ![](media/new_file_2.png)
-Then click on the `new file` button file :
+Then click on the `new file` button file:
+
 ![](media/new_file_3.png)
+
 Name the file `style.css`:
+
 ![](media/style_css.png)
 
 Double click to open the new file. Then copy and paste the following CSS:
