@@ -289,25 +289,25 @@ Save and commit your project to GitHub.
 Then visit your repository link on GitHub.
 
 Click on Settings:
-![](media/githubPages_0.png)
+![](media/gitHubPages_0.png)
 
 
 Scroll down to "GitHub pages" and then choose source: 
-![](media/githubPages_1.png)
+![](media/gitHubPages_1.png)
 
 Click on the "main" branch:
-![](media/githubPages_2.png)
+![](media/gitHubPages_2.png)
 
 
 Choose "root":
-![](media/githubPages_3a.png)
+![](media/gitHubPages_3a.png)
 
 Click on Save:
-![](media/githubPages_4a.png)
+![](media/gitHubPages_4a.png)
 
 
 Copy the link and put it in your `readme.md` file in the `week 2` folder.
-![](media/githubPages_5.png)
+![](media/gitHubPages_5.png)
 
 You can see the `html` file if you go to 
 `https://albertkun.github.io/21S-ASIAAM-191A-Assignments` plus `/Week_02/index.html`
