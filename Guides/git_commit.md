@@ -22,4 +22,5 @@ This guide will walk you through how to push to your lab assignment repo after y
 ![](media/git_commit_5.png)
 7. Choose "Push" to push to GitHub
 ![](media/git_commit_6.png)
-8. Go to GitHub and check to see if your repository has updated!
+8. Go to your GitHub repository and check to see if your repository has updated.
+![](media/git_commit_7.png)
