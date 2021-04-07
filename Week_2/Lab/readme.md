@@ -32,7 +32,7 @@ For example, we can name a tag something:
 
 Wow, that's my name tag!
 
-We will start with a basic html structure and go from there examining these elements along the way:
+We will start with a basic html structure and go from there:
 
 ```html
 <!DOCTYPE html>
@@ -40,10 +40,9 @@ We will start with a basic html structure and go from there examining these elem
     <head>
         <title>Hello World with Leaflet</title>
         <meta charset="utf-8" />
-
-        <!-- style sheets -->
-
+        <!-- I'd add some style if here if I had any -->
     </head>
+
     <body>
 
         <header>
@@ -51,11 +50,11 @@ We will start with a basic html structure and go from there examining these elem
         </header>
     
         <div class="sidebar">
-            My Sidebar
+My Sidebar
         </div>
 
         <div id="content">
-My Map
+                    My Map
         </div>
 
     </body>
@@ -64,9 +63,8 @@ My Map
 
 > What do you observe in the code? 
 > 1. Why should everything be enclosed in the `html` tag?
-> 2. Do spaces matter in HTML?
-> 2. What is a comment and how do you write one?
-> 3. What do you think is a stylesheet?
+> 2. Do empty spaces matter in HTML?
+> 3. What is a comment and how do you write one?
 > 4. What is the difference between the `class` and `id` attributes?
 
 To answer these, let's save the file and name it `index.html` and open it in Firefox.
@@ -78,9 +76,9 @@ Hint: Right click on your `index.html` file and `reveal in file explorer`. Then,
 ## Cool Stylin' Sheets
 Recall that HTML is like the house, and now we want to decorate it, so we will add some Cascading Style Sheets (CSS):
 
-Insert the following code in the head right before the closing tag:
+Insert the following code in the head right before the closing tag (`</head>`):
 
-```
+```html
 <style>
     html {
         background-color: azure
