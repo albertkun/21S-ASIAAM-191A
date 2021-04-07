@@ -310,7 +310,7 @@ Copy the link and put it in your `readme.md` file in the `week 2` folder.
 ![](media/gitHubPages_5.png)
 
 You can see the `html` file if you go to 
-`https://albertkun.github.io/21S-ASIAAM-191A-Assignments` plus `/Week_02/index.html`
+`https://YOUR_GITHUB_ACCOUNT.github.io/21S-ASIAAM-191A-Assignments` plus `/Week_02/index.html`
 
 ## Adding our GeoJSON file
 Copy `lab1.geojson` from last week into this lab's folder. If you changed the name of it, please use your name or rename it to lab1.geojson.
