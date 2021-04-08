@@ -4,7 +4,8 @@
 >### Objectives:
 > - Create a basic webpage 
 > - Add a Leaflet map
-> - Add data to the map
+> - Add GeoJSON data to the map
+> - Create a GeoJSON online
 
 This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to add a map using the Leaflet JS library and host it using GitHub pages.
 
@@ -53,7 +54,7 @@ In coding, boiler plate code is ready to use code that people can freely copy an
 
 Template code refers to sample code that can be copied and pasted, but requires modifications in order for it to work.
 
-Here is our with a template code:
+Here is our template code:
 
 ```html
 <!DOCTYPE html>
@@ -62,8 +63,8 @@ Here is our with a template code:
         <title>Hello World with Leaflet</title>
         <meta charset="utf-8" />
         <link rel="shortcut icon" href="#">
+
         <!-- I'd add some style if here if I had any -->
-        <link rel="stylesheet" href="styles/style.css">
 
     </head>
     
@@ -73,7 +74,17 @@ Here is our with a template code:
         </header>
         
         <div class="main">
+        <!-- hint: majority of your lab assignment can go here     -->
+        
         </div>
+
+        <div id="map"></div>
+
+        <div id="footer">
+            Copyright(2021)
+        </div>
+        
+    </body>
         
         <div id="footer">
 Copyright(2021)
@@ -138,9 +149,9 @@ html, body {
 
  body {
      display: grid;
-     grid-template-rows: .1fr .90fr .05fr;
+     grid-template-rows: .1fr .30fr .60fr .05fr;
      grid-template-columns: 1fr;
-     grid-template-areas: "header" "main" "footer";
+     grid-template-areas: "header" "main" "map"  "footer";
      justify-content: center;
  }
 
@@ -154,11 +165,14 @@ html, body {
 .main {
     display: grid;
     grid-area: main;
-    height: 80vh;
-    /* grid-template-columns: 1fr;
-    grid-template-rows: 1fr; */
     background-color: aqua;
 }
+
+#map {
+    grid-area: map;
+    height: 40vh;
+}
+
 #footer {
     grid-area: footer;
 }
@@ -182,23 +196,34 @@ JavaScript makes sure our page knows how to function and react. There are differ
 Sometimes it also becomes important to put JavaScript in the footer tag, why is that? It is because if you have JavaScript functions where the page needs to load first, then putting after the `</body>` becomes necessary. This will be relevant when we bring in Leaflet.js.
 
 ### Let's a variable go!
-We'll discuss more next week, but JavaScript starts introducing the concept of variables and delcarations
+Remember how we had field types in QGIS? Like, double, float and string? In programming languages we call those "types." With JavaScript, variables become assigned types. We'll discuss more next week, but JavaScript starts introducing the concept of variables and delcarations.
 
 This is an example of a declaration:
-```html
-var name = "Albert"
+```js
+var day = 8;
+var name = "Albert";
 ```
-With JavaScript ES7, we no longer use `var`, but instead `let` and `const` to declar variables. They get declared in the same way, despite their differences:
+Here `day` is a **number** type and `name` is a **string** type. Each type has certain properties with them, for example you can add **numbers** together using something like `day + day`, but you **cannot** add strings, `name + name`.
 
-```html
-let location = "SF"
-const name = "Albert"
+Important note, that with JavaScript ES7, we no longer use `var`, but instead `let` and `const` to declare variables. They get declared in the same way:
+
+```js
+let day = 8;
+const name = "Albert";
 ```
-A `let` declaration allows a variable to change, while `const` means a variable is constant and will never change.
 
-`var` was problematic because it coule be BOTH!!!
+### Let vs Const vs Var
+What is the difference? 
 
-Meaning `var` can be never changing and changing (mutable) at the same time. Hence, it was broken off into two variable types, `let` and `const`. So, bye bye `var` and `LET` us welcome our new `CONST` to the programming world.
+1. `let` declaration allows a variable to change
+2.  `const` means a variable is constant and will never change.
+3. `var` be changed and never changed depending on where it was declared! VERY PROBLEMATIC!
+
+Because `var` can be changing (mutable) and unchanging at the same time, so it was broken off into two variable types, `let` and `const`. 
+
+So, bye bye `var` and `LET` us welcome our new `CONST` variables to the programming world.
+
+To recap: NEVER USE `var` unless you have to code for old browsers.
 
 ### Console.log()
 By itself, the script tag does nothing. So, one VERY important JavaScript functions that we should familarize ourself with is `console.log()`, because it allows us to test our code without things showing up in the webpage.
@@ -211,24 +236,28 @@ Add the following script:
 ```
 
 #### Nothing happened?! What!?
-Actually, you are about to unlock your full web developer potential! In Firefox, right click anywhere on the page and the click `Inspect Element`:
+Actually, you are about to unlock your full web developer potential! 
 
+In Firefox, right click anywhere on the page and the click `Inspect Element`:
+![](media/click_anywhere.png)
 This opens the `Developer Toolbar`!! You can find it by going to the Menu and going to `Web Developer` and then `Web Developer Tools`.
 
 Click on the Console button:
+![](media/console.png)
 
 Yay! Our message is there!
+![](media/console_log_worked.png)
 
 ### Linking to another JavaScript file
-Similar to the CSS files, we can move the JavaScript file into its own folder to avoid cluttering the HTML file. 
+Similar to the CSS files, we can move the JavaScript file into its own folder to avoid cluttering the HTML file. Importing libraries is the main way we level up our webpage.
 
-BUT!!! Instead of `<link>` we must include the JavaScript with the `<script>` tag and `src` attribute follows: 
+BUT!!! Instead of `<link>` we use the `<script>` tag:
 
 ```html
  <script src="YOUR_SCRIPT_NAME.js"></script> 
 ```
 
-The `src` is location of your file.
+The `src` attribute is location of your file.
 
 ### In-class Exercise #2
 >#### Task:
@@ -312,43 +341,112 @@ Copy the link and put it in your `readme.md` file in the `week 2` folder.
 You can see the `html` file if you go to 
 `https://YOUR_GITHUB_ACCOUNT.github.io/21S-ASIAAM-191A-Assignments` plus `/Week_02/index.html`
 
-## Adding our GeoJSON file
-Copy `lab1.geojson` from last week into this lab's folder. If you changed the name of it, please use your name or rename it to lab1.geojson.
+## Adding a GeoJSON file
+Copy `lab1.geojson` from last week into this lab's folder. If you changed the name of it, please use  your filename to follow along or rename the file to lab1.geojson.
 
-Go into the `lab1.geojson` file and add the following:
-
-```javascript
-const california_counties = 
-```
-
-Rename the file to lab1.js.
-
-Next, open the html file and add the following line:
-```html
-<script src="./js/lab1.js"></script>
-```
-
-Finally, go into the init.js file and then add this line at the end:
-```javascript
-L.geoJSON(ca_counties).addTo(map);
-```
-
-Optional:
-If you want to get fancy, you can add this line of code which allows you to click on the polygons:
+### FETCH and THEN
+We will use the JavaScript [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to get our geojson file and then add it to our map. In JavaScript whenever you see a `.` after a parenthesis, it means you are **chaining** a command to follow it. In this case we are chaining a `then` method. In the `then` method we will have a 
 
 ```javascript
-function onEachFeature(feature, layer) {
-    // checks to make sure feature exists with properties
-    if (feature.properties) {
-        layer.bindPopup("<h3>Name: "+feature.properties.name+"</h3>");
-		console.log(feature.properties)
+fetch("js/lab1.geojson")
+    .then(response => {
+        return response.json()
+    })
+    .then(data =>{
+        // Basic Leaflet method to add GeoJSON data
+        L.geoJSON(data).addTo(map)
+    })
+```
+The map should now have a blue tint over it and you cannot interact with it. Not really useful.
+
+Replace the "basic Leaflet method" with these lines:
+```javascript
+// the leaflet method for adding a geojson
+L.geoJSON(data, {
+    style: function (feature) {
+        return {color: 'red'};
     }
-}
-
-L.geoJSON(ca_counties, {
-    onEachFeature: onEachFeature
+}).bindPopup(function (layer) {
+    return layer.feature.properties.name;
 }).addTo(map);
 ```
+
+Notice now that when you click on the map, the name of the counties show up.
+
+
+## The power of web mapping
+
+The boundary that we added from last week doesn't really seem to add much. Let's put to practice what web development and GIS can do for power.
+
+Head over to this website:
+[https://www.geojson.io/](https://www.geojson.io/)
+
+Click on the marker tool:
+![](./media/geojson1.png)
+Click on a location of interest to you:
+![](./media/geojson2.png)
+Add a data column:
+![](./media/geojson3.png)
+Call it place and click "OK":
+![](./media/geojson4.png)
+Click inside the place column
+![](./media/geojson6.png)
+Type in a description for the place, in this case I called it "home".
+![](./media/geojson7a.png)
+
+Zoom out:
+![](./media/geojson8.png)
+Click the edit button:
+![](./media/geojson9.png)
+Click the move the marker to the adjust the location:
+![](./media/geojson9a.png)
+Save your edit:
+![](./media/geojson10.png)
+
+Repeat these steps until you have a few points.
+
+Add another column called "color", to put some color to your map later.
+
+![](./media/geojson10.png)
+Save your file:
+![](./media/geojson11.png)
+Click geoJSON:
+![](./media/geojson12.png)
+Download the file to your computer:
+![](./media/geojson13.png)
+Copy the file into your project folder:
+![](./media/geojson15.png)
+
+Change `lab1.geojson` to `map.geojson` (the name of the file we downloaded) in the `fetch` code:
+
+```javascript
+fetch("js/map.geojson")
+    .then(response => {
+        return response.json()
+    })
+    .then(data =>{
+        // Basic Leaflet method to add GeoJSON data
+        L.geoJSON(data, myLayerOptions)
+        .bindPopup(function (layer) {
+            return layer.feature.properties.place;
+        }).addTo(map);
+    })
+```
+Bam! It updated!
+
+Utilize our color property:
+
+```javascript
+function customMarker (feature, latlng) {
+    return L.circleMarker(latlng, { color: feature.properties.color })
+  }
+  
+  // create an options object
+  let myLayerOptions = {
+    pointToLayer: customMarker
+  }
+```
+Now think about how empowering it was for you to be able to add data to the map yourselves. Whether you were clicking random spots or trying to find your old favorite places to visit, the ability to mark things is a reclaiming of mapping for yourself. This sense of staking a claim is what I mean when I refer to "empowering community voices".
 
 ## Lab Assignment - Map Portfolio:
 Create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. 
@@ -366,4 +464,7 @@ Create a home page for the individual maps that you will be making this quarter.
 
   - https://albertkun.github.io/21S-ASIAAM-191A-Assignments/Week_02/index.html
 
-- Extra Credit: Add the `lab1.geojson` to a completely different map and HTML page.
+- Extra Credit: (any of these) 
+   - Add the `lab1.geojson` to a completely different map and HTML page.
+   - Add some Leaflet features that we did not discuss in class.
+   - Check out the Extra documentation and try something there.
