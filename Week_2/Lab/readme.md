@@ -9,7 +9,7 @@
 
 This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to add a map using the [Leaflet JS library](leafletjs.com/) and host it using GitHub pages.
 
->Note: I highly recommend checking out the [Leaflet  documentation](https://leafletjs.com/reference-1.7.1.html). Looking at any documentation before choosing any software is important, because badly documented libraries can the tools difficult to use. 
+>Note: I highly recommend checking out the [Leaflet  documentation](https://leafletjs.com/reference-1.7.1.html). Looking at any documentation before choosing any software is important, because badly documented libraries can make tools difficult to use. 
 
 
 ## Let's get VS Coding!
@@ -41,7 +41,7 @@ For example, we can name a tag something:
 Wow, that's my name tag!
 
 ### 2.2 Boilerplate vs. Template Code
-In coding, boiler plate code is ready to use code that people can freely copy and use with no changes. Think of them as ready-to-eat microwave dinners.
+In coding, boilerplate code is ready to use code that people can freely copy and use with no changes. Think of them as ready-to-eat microwave dinners.
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -84,12 +84,6 @@ Here is our template code:
         <div id="map"></div>
 
         <div id="footer">
-            Copyright(2021)
-        </div>
-        
-    </body>
-        
-        <div id="footer">
 Copyright(2021)
         </div>
         
@@ -109,7 +103,18 @@ Let's fix our code so that it actually looks presentable. Look for the errors in
 
 Save the file and name it `index.html` and open it in Firefox.
 
-Hint: Right click on your `index.html` file and `reveal in file explorer`. Then, double click on the file.
+### Preview our file
+Make sure you have the Live Server extension installed:
+[https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+Click on Go Live!
+![](media/go_live.png)
+
+Your default browser should automatically pop-up, if it is not Firefox, you will need to copy and paste the link over.
+
+![](media/live_preview.png)
+
+Alternatively: Right click on your `index.html` file and `reveal in file explorer`. Then, double click on the file.
 
 
 ## Cool Stylin' Sheets
@@ -120,21 +125,23 @@ Insert the following code in the `<head>` right before the closing tag (i.e. `</
 ```html
 <style>
     html {
-        background-color: azure
+        background-color: azure;
     }
 </style>
 ```
 What happened to the page?
 
-That's cool! But this way of using CSS, called inline CSS can make your HTML file long and cumbersome. So it's usually better a seperate file for CSS and bring that whole file in as a linked source.
+That's cool! But this way of using CSS, called inline CSS, can make your HTML file long and cumbersome. So it's usually better to have a separate file for CSS and bring that whole file in as a linked source.
 
 ### Adding linked CSS
 Click the new folder button:
 
 ![](media/new_folder.png)
+
 Highlight the `style` folder by clicking on it:
 
 ![](media/new_file_2.png)
+
 Then click on the `new file` button file:
 
 ![](media/new_file_3.png)
