@@ -7,7 +7,10 @@
 > - Add GeoJSON data to the map
 > - Create a GeoJSON online
 
-This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to add a map using the Leaflet JS library and host it using GitHub pages.
+This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to add a map using the [Leaflet JS library](leafletjs.com/) and host it using GitHub pages.
+
+>Note: I highly recommend checking out the [Leaflet  documentation](https://leafletjs.com/reference-1.7.1.html). Looking at any documentation before choosing any software is important, because badly documented libraries can the tools difficult to use. 
+
 
 ## Let's get VS Coding!
 
