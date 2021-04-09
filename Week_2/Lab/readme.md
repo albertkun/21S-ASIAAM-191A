@@ -315,7 +315,8 @@ let marker = L.marker([34.0709, -118.444]).addTo(map)
 
 ```
 #### Class Exercise #3 - Adding more markers
-- Looking at the code above a little bit, we can see some latitude/longitude pairs. Copy the marker code add more markers of your choosing. To find latitude/longitude of coordinates, please use this website:
+- Looking at the code above a little bit, we can see some latitude/longitude pairs. Copy the marker code add more markers of your choosing. **Note**: Be sure give the marker variable a new name, like `marker2`.  
+- To find latitude/longitude of coordinates, please use this website:
    - [https://www.latlong.net/](https://www.latlong.net/)
 
 - Optional: Not happy with the basemap?
@@ -493,7 +494,7 @@ Now think about how empowering it was for you to be able to add data to the map 
         <meta charset="utf-8" />
         <link rel="shortcut icon" href="#">
         <!-- I'd add some style if here if I had any -->
-        <link rel="stylesheet" href="styles/style.css">
+        <link rel="stylesheet" href="style/style.css">
         <script>
             console.log('Hello Asian Am 191! :)')
         </script>
