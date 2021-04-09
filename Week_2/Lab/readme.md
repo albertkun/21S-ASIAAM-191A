@@ -403,7 +403,6 @@ fetch("js/lab1.geojson")
 ```
 Notice now that when you click on the map, the name of the counties show up.
 
-
 ## The power of web mapping
 
 The boundary that we added from last week doesn't really seem to add much. Let's put to practice what web development and GIS can do for power.
@@ -602,3 +601,10 @@ Create a home page for the individual maps that you will be making this quarter.
    - Add the `lab1.geojson` to a completely different map and HTML page.
    - Add some Leaflet features that we did not discuss in class.
    - Check out the [Extra](extra.md) or [Leaflet documentation](http://www.leafletjs.com/) and try something there.
+
+### HTML Resources to help with your assignment:
+- Short MDN HTML Syntax (good recap): 
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+- Long overview and explanation of HTML:
+https://geobgu.xyz/web-mapping2/html.html
