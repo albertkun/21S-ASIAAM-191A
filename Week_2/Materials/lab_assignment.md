@@ -19,3 +19,10 @@ Create a home page for the individual maps that you will be making this quarter.
 
 - Extra Credit: Add the `lab1.geojson` to a completely different map and HTML page.
 
+
+### HTML Resources to help with your assignment:
+- Short MDN HTML Syntax (good recap): 
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+- Long overview and explanation of HTML:
+https://geobgu.xyz/web-mapping2/html.html

@@ -383,6 +383,24 @@ L.geoJSON(data, {
 }).addTo(map);
 ```
 
+The completed `fetch` code should look like this:
+```javascript
+fetch("js/lab1.geojson")
+	.then(response => {
+		return response.json();
+		})
+    .then(data =>{
+        // Basic Leaflet method to add GeoJSON data
+                        // the leaflet method for adding a geojson
+            L.geoJSON(data, {
+                style: function (feature) {
+                    return {color: 'red'};
+                }
+            }).bindPopup(function (layer) {
+                return layer.feature.properties.name;
+            }).addTo(map);
+        });
+```
 Notice now that when you click on the map, the name of the counties show up.
 
 
@@ -391,7 +409,7 @@ Notice now that when you click on the map, the name of the counties show up.
 The boundary that we added from last week doesn't really seem to add much. Let's put to practice what web development and GIS can do for power.
 
 Head over to this website:
-[https://www.geojson.io/](https://www.geojson.io/)
+[http://www.geojson.io/](http://www.geojson.io/)
 
 Click on the marker tool:
 
@@ -486,6 +504,8 @@ function customMarker (feature, latlng) {
 Now think about how empowering it was for you to be able to add data to the map yourselves. Whether you were clicking random spots or trying to find your old favorite places to visit, the ability to mark things is a reclaiming of mapping for yourself. This sense of staking a claim is what I mean when I refer to "empowering community voices".
 
 ### Final Template Code:
+
+`index.html`
 ```html
 <!DOCTYPE html>
 <html>
@@ -525,6 +545,43 @@ Now think about how empowering it was for you to be able to add data to the map 
 </html>
 ```
 
+`init.js`
+```js
+const map = L.map('map').setView([34.0709, -118.444], 5);
+
+// Leaflet tile layer, i.e. the base map
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+//JavaScript let variable declaration to create a marker
+let marker = L.marker([34.0709, -118.444]).addTo(map)
+		.bindPopup('Math Sciences 4328 aka the Technology Sandbox<br> is the lab where I work in ')
+		// .openPopup();
+
+fetch("js/map.geojson")
+	.then(response => {
+		return response.json();
+		})
+    .then(data =>{
+        // Basic Leaflet method to add GeoJSON data
+                        // the leaflet method for adding a geojson
+            L.geoJSON(data, {
+                style: function (feature) {
+                    return {color: 'red'};
+                }
+            }).bindPopup(function (layer) {
+                return layer.feature.properties.place;
+            }).addTo(map);
+        });
+    
+
+```
+
+`style/style`
+```css
+
+
 ## Lab Assignment - Map Portfolio:
 Create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. 
 
@@ -544,4 +601,4 @@ Create a home page for the individual maps that you will be making this quarter.
 - Extra Credit: (any of these) 
    - Add the `lab1.geojson` to a completely different map and HTML page.
    - Add some Leaflet features that we did not discuss in class.
-   - Check out the Extra documentation and try something there.
+   - Check out the [Extra](extra.md) or [Leaflet documentation](http://www.leafletjs.com/) and try something there.
