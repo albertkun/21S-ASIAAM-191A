@@ -577,8 +577,44 @@ fetch("js/map.geojson")
 
 ```
 
-`style/style`
+`style/style.css`
 ```css
+
+html, body {
+    padding: 5px;
+ }
+
+ body {
+     display: grid;
+     grid-template-rows: .1fr .30fr .60fr .05fr;
+     grid-template-columns: 1fr;
+     grid-template-areas: "header" "main" "map"  "footer";
+     justify-content: center;
+ }
+
+ header {
+    grid-area: header;
+    display: grid;
+    grid-template-columns: .2fr .6fr .2fr;
+    justify-content: center;
+ }
+
+.main {
+    display: grid;
+    grid-area: main;
+    background-color: aqua;
+}
+
+#map {
+    grid-area: map;
+    height: 40vh;
+}
+
+#footer {
+    grid-area: footer;
+}
+
+```
 
 
 ## Lab Assignment - Map Portfolio:
