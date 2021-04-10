@@ -615,12 +615,11 @@ html, body {
 }
 
 ```
-
-
 ## Lab Assignment - Map Portfolio:
-Create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. This is your portfolio, so feel free to delete or add anything (like the marker of where I work in the template code).
+### Due 4/15
+Time to put your skills to the test and create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. This is your portfolio, so feel free to delete or add anything. If you made multiple HTML pages, please link them all to the `index.html` using the `<a href=""></a>` tag>.
 
-Your map portfolio must contain the following (if you have separate pages, please link them all to the `index.html`):
+Your map portfolio must contain the following:
 
 - A `<h1>` tag for your title
 - Add at least 2-3 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled.
