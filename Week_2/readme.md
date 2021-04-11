@@ -11,12 +11,8 @@
 
 Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche Center](https://bunchecenter.ucla.edu/) and the [Million Dollar Hoods Project](https://milliondollarhoods.pre.ss.ucla.edu/). 
 
-
-
-
 ## Lab
 - [Hello World (of HTML, Javascript, CSS, and Leaflet mapping!)](./Lab/readme.md)
-<!-- - -->
 - [Lab Slides](./Materials/AA191_S_W2_Lab_2.pdf)
 - [Lecture 2 Recording](https://tinyurl.com/2rrm77u8)
 
