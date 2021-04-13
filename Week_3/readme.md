@@ -6,7 +6,7 @@
 )
 
 ## Lab
-- [The JavaScript Never Ends.)](./Lab/readme.md)
+- The JavaScript Never Ends
 
 ## Assignments
 ### Due Thursday 4/15:
