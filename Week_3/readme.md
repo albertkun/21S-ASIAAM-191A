@@ -15,8 +15,9 @@
 - [Optional: Pre-lab Reading](./Materials/pre-lab.md)
 
 ### Due Monday 4/19 at 12pm PST:
-- [Thinking Cap #3](https://github.com/albertkun/21S-ASIAAM-191A/discussions/47)
-- 
+- [Thinking Cap #3](https://github.com/albertkun/21S-ASIAAM-191A/discussions/90)
+
+
 ### Due Thursday 4/22:
 - [Group Assignment #2](../Week_2/Materials/group_assigment_2.md)
 
