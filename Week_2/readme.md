@@ -7,7 +7,7 @@
 )
 - [Mini-Lab: Creating a repo!](../Guides/git_creating.md)
 ### Visiting Voices: Mariah Tso
-![.\Materials/media/mariahtso.jpg](./Materials/media/mariahtso.jpg)
+![./Materials/media/mariahtso.jpg](./Materials/media/mariahtso.jpg)
 
 Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche Center](https://bunchecenter.ucla.edu/) and the [Million Dollar Hoods Project](https://milliondollarhoods.pre.ss.ucla.edu/). 
 
@@ -31,10 +31,10 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 - [Thinking Cap #2 Comments ](https://github.com/albertkun/21S-ASIAAM-191A/discussions/categories/week-2)
 
 ### Due Thursday 4/15:
-- [Lab Assignment #2](\Materials\lab_assignment.md)
+- [Lab Assignment #2](/Materials/lab_assignment.md)
 
 ### Due Tuesday 4/20:
-- [Group Assignment #2](\Materials\group_assigment_2.md)
+- [Group Assignment #2](/Materials/group_assigment_2.md)
 
 #### Optional: Git Resources for command-line
 
