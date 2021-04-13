@@ -33,7 +33,7 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 ### Due Thursday 4/15:
 - [Lab Assignment #2](./Materials/lab_assignment.md)
 
-### Due Tuesday 4/20:
+### Due Tuesday 4/22:
 - [Group Assignment #2](./Materials/group_assigment_2.md)
 
 #### Optional: Git Resources for command-line
