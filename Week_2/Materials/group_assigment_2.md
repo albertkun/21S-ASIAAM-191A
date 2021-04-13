@@ -1,5 +1,5 @@
 # Group Assignment #2: Memo 
-## Due Tuesday 4/20
+## Due Thursday 4/22
 
 Prepare a short memo (no more than two pages) for your project either using Google Docs or Microsoft Word. This document will be exchanged with other groups and form the basis of our survey testing. When finished, please upload the pdf to your repository.
 

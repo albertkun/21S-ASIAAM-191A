@@ -14,7 +14,7 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 ## Lab
 - [Hello World (of HTML, Javascript, CSS, and Leaflet mapping!)](./Lab/readme.md)
 - [Lab Slides](./Materials/AA191_S_W2_Lab_2.pdf)
-- [Lecture 2 Recording](https://tinyurl.com/2rrm77u8)
+- [Lab 2 Recording](https://tinyurl.com/2rrm77u8)
 
 ## Assignments
 ### Due Thursday 4/8:
