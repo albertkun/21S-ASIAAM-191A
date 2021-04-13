@@ -10,8 +10,8 @@
 
 ## Assignments
 ### Due Thursday 4/15:
-- [Group Assignment #1](../Week_1/3_group_project.md)
-- [Lab Assignment #1](https://github.com/albertkun/21S-ASIAAM-191A-Assignments/tree/main/Week_01)
+- [Lab Assignment #2](../Week_2/Materials/lab_assignment.md)
+  - Submit using the discussion post!! 
 - [Optional: Pre-lab Reading](./Materials/pre-lab.md)
 
 ### Due Monday 4/19 at 12pm PST:
