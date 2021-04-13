@@ -11,7 +11,7 @@
 ## Assignments
 ### Due Thursday 4/15:
 - [Lab Assignment #2](../Week_2/Materials/lab_assignment.md)
-  - Submit using the discussion post!! 
+  - [Submit using the discussion post](../Guides/submit.md)!! 
 - [Optional: Pre-lab Reading](./Materials/pre-lab.md)
 
 ### Due Monday 4/19 at 12pm PST:
