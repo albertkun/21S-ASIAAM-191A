@@ -617,7 +617,7 @@ html, body {
 ```
 ## Lab Assignment - Map Portfolio:
 ### Due 4/15
-Time to put your skills to the test and create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. This is your portfolio, so feel free to remove or add anything. If you made multiple HTML pages, please link them all to the `index.html` using the `<a href=""></a>` tag>.
+Time to put your skills to the test and create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. This is your portfolio, so feel free to delete or add anything. If you made multiple HTML pages, please link them all to the `index.html` using the `<a href=""></a>` tag>.
 
 Your map portfolio must contain the following:
 
@@ -631,12 +631,16 @@ Your map portfolio must contain the following:
 - Use the [`<a>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) to add a link to 2 other web pages.
 - Set up GitHub pages for your repo
 
-#####  - Submission: In the `week_02` folder, add a `readme.md` that links to your GitHub pages, it should look something like this:
+###  Submission: 
+- Commit and publish your file to your repo's [GitHub pages](https://guides.github.com/features/pages/)
+- Find your `index.html` in the `Week_02` folder and copy the URL. It should look something like this:
 
   - https://albertkun.github.io/21S-ASIAAM-191A-Assignments/Week_02/index.html
 
+- Paste your link as a comment in the [Discussion forum for Lab Assignment #2](https://github.com/albertkun/21S-ASIAAM-191A/discussions/89)
 
-##### Extra Credit: (any of these) 
+
+### Extra Credit: (any of these) 
    - Add another `geojson` (it can be `lab1.geojson` or anything else) to a completely different HTML page not `index.html`. (Be sure to link it to your `index.html` and describe what you are showing)
    - Add some Leaflet features that we did not discuss in class.
    - Check out the [Extra](extra.md) or [Leaflet documentation](http://www.leafletjs.com/) and try something there.
