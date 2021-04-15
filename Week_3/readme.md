@@ -6,7 +6,7 @@
 )
 
 ## Lab
-- The JavaScript Never Ends
+- [JavaScript FUNctions](./Lab/readme.md)
 
 ## Assignments
 ### Due Thursday 4/15:
@@ -20,5 +20,6 @@
 
 ### Due Thursday 4/22:
 - [Group Assignment #2](../Week_2/Materials/group_assigment_2.md)
+- [Lab Assignment #3](./Materials/lab_assignment.md)
 
 
