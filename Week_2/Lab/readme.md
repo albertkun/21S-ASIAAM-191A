@@ -1,11 +1,11 @@
 # Lab 2: Hello World (of HTML, Javascript, CSS, and Leaflet mapping!)
 
 
->### Objectives:
-> - Create a basic webpage 
-> - Add a Leaflet map
-> - Add GeoJSON data to the map
-> - Create a GeoJSON online
+### Objectives:
+ - Create a basic webpage 
+ - Add a Leaflet map
+ - Add GeoJSON data to the map
+ - Create a GeoJSON online
 
 This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to add a map using the [Leaflet JS library](leafletjs.com/) and host it using GitHub pages.
 
