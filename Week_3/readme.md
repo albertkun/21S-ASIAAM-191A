@@ -6,6 +6,7 @@
 )
 
 ## Lab
+- [Lab 3 Slides](./Materials/AA191_S_W3_Lab_3.pdf)
 - [JavaScript FUNctions](./Lab/readme.md)
 
 ## Assignments
