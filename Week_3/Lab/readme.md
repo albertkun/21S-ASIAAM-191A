@@ -5,12 +5,18 @@
 > - Use JavaScript to add data to a map
 > - Add user interactivity with JavaScript functions
 
+You can get the latest assignment by running in your assignments repository:
+```
+git pull upstream main
+```
+
 ## Returning home to the HTML/CSS/JS analogy 
-Recall from the [reading](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards#html_css_and_javascript) that a webpage is like a house:
+Recall from last week's [reading](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards#html_css_and_javascript) that a webpage is like a house:
 - HTML is the scaffolding of the house
 - CSS is the paint, carpets, etc. that makes the house look nice 
 - JavaScript is the appliances that adds function to the house
 
+Today we will be focusing on the appliances.
 
 ## Picking up from last week
 
