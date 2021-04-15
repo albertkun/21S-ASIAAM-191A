@@ -16,6 +16,9 @@
 
 ### Due Monday 4/19 at 12pm PST:
 - [Thinking Cap #3](https://github.com/albertkun/21S-ASIAAM-191A/discussions/90)
+- Optional Reading: 
+  - https://handsondataviz.org/sketch.html
+  - https://handsondataviz.org/tool-factors.html
 
 
 ### Due Thursday 4/22:
