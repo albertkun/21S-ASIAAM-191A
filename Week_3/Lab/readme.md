@@ -321,10 +321,10 @@ This technique will be helpful for our pop-ups.
 
 When you see tags in HTML, like `<body></body>`, they are referred to as elements, so for example:
 ```html
-        <water>Katara</water> 
-        <air>Aang</air> 
-        <earth>Toph</earth> 
-        <fire>Zuko</fire>
+<water>Katara</water> 
+<air>Aang</air> 
+<earth>Toph</earth> 
+<fire>Zuko</fire>
 ```
 Above we have four elements. Each element has a `content`, for example, the `earth` element's content is `Toph`. Unfortunately, despite how exciting those elements are, the most common HTML element is the `<div></div>` element, which is a generic container.
 
@@ -351,7 +351,7 @@ function addMarker(lat,lng,title,message){
 }
 ```
 Next we will add our new function. Notice how we are using the `lat`,`lng`,and `title` from the `addMarker` function? That's why it was helpful to do step one first.
-
+>js/init.js
 ```js
 // Step 2 adding our new function
 function createButtons(lat,lng,title){
@@ -367,7 +367,7 @@ function createButtons(lat,lng,title){
 }
 ```
 
-Congratulations on finishing the JavaScript FUNctions Lab!
+### Congratulations on finishing the JavaScript FUNctions Lab!
 
 ## Lab Assignment #3 - JavaScript FUNctions
 ### Due 4/22
