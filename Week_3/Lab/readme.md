@@ -452,8 +452,7 @@ The requirements are:
 ### Extra Credit:
 - Use something else like images or text to move the map.
 - Try something new with the [Leaflet API](https://leafletjs.com/reference-1.7.1.html)
-- Generate markers using an array or GeoJSON and use a [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) that uses the JavaScript array and adds the items to the map
-
+- 
 ## Submission
 - Commit your changes to GitHub
 - Commit and publish your file to [GitHub pages](https://guides.github.com/features/pages/)
