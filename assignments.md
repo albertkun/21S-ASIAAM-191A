@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td>Finals</td>
-<td>6/8</td>
+<td>6/10</td>
 <td><ul>
 <li><p><strong>Final presentations</strong></p></li>
 </ul></td>
