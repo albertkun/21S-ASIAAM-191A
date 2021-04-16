@@ -366,9 +366,78 @@ function createButtons(lat,lng,title){
     document.body.appendChild(newButton); //this adds the button to our page.
 }
 ```
-
+Try clicking the button on the webpage and it should fly to the location of that marker!
 ### Congratulations on finishing the JavaScript FUNctions Lab!
 
+### Final Code:
+> js/init.js
+```js
+// declare variables
+let zoomLevel = 5;
+const mapCenter = [34.0709,-118.444];
+
+// use the variables
+const map = L.map('map').setView(mapCenter, zoomLevel);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+// create a function to add markers
+function addMarker(lat,lng,title,message){
+    console.log(message)
+    L.marker([lat,lng]).addTo(map).bindPopup(`<h2>${title}</h2>`)
+    createButtons(lat,lng,title); // new line!!!
+    return message
+}
+
+// create a function to add buttons with a fly to command
+function createButtons(lat,lng,title){
+    const newButton = document.createElement("button"); // adds a new button
+    newButton.id = "button"+title; // gives the button a unique id
+    newButton.innerHTML = title; // gives the button a title
+    newButton.setAttribute("lat",lat); // sets the latitude 
+    newButton.setAttribute("lng",lng); // sets the longitude 
+
+    // attach an event listner to the button with Leaflet's map.flyTo
+    newButton.addEventListener('click', function(){
+        map.flyTo([lat,lng]); 
+    })
+    document.body.appendChild(newButton); //this adds the button to our page.
+}
+
+// use our marker functions
+addMarker(37,-122,'home','home land!')
+addMarker(32,-118,'work','where i work land!')
+addMarker(39,-119,'location 1','random location')
+addMarker(36,-120,'location 2','another random location')
+
+```
+
+> index.html
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Basic Leaflet Map</title>
+        <meta charset="utf-8" />
+        <link rel="shortcut icon" href="#">
+
+        <style> #map{height:90vh}</style>
+
+        <!-- Leaflet's css-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+        <!-- Leaflet's JavaScript-->
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    </head>
+    
+    <body>
+        <div id="map"></div>
+    </body>
+    <script src="js/init.js"></script>
+</html>
+```
 ## Lab Assignment #3 - JavaScript FUNctions
 ### Due 4/22
 
