@@ -447,7 +447,7 @@ The requirements are:
 
 - Add at least 3 markers to the map using a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
 - Add a button [`<button>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button) that executes the JavaScript function to interact with your map 
-- Add an Event Listener [`<button>` element](https://developer.mozilla.org/en-US/docs/Web/API/EventListener) that executes the JavaScript function to interact with your map 
+- Add an [Event Listener](https://developer.mozilla.org/en-US/docs/Web/API/EventListener) that executes the JavaScript function to interact with your map 
 
 ### Extra Credit:
 - Use something else like images or text to move the map.
