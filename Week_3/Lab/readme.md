@@ -369,7 +369,7 @@ function createButtons(lat,lng,title){
 Try clicking the button on the webpage and it should fly to the location of that marker!
 ### Congratulations on finishing the JavaScript FUNctions Lab!
 
-### Final Code:
+### Final Code
 > js/init.js
 ```js
 // declare variables
