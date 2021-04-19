@@ -293,7 +293,7 @@ Now, let's go ahead and add a container for our map.
 After `<div id="main"></div>` add a new `<div></div>` tag, and give it an ID attribute of "map":
 
 ```html
-<div id="map"></map>
+<div id="map"></div>
 ```
 
 With our container ready to go, open up the JavaScript file again and add the following Leaflet code template:
