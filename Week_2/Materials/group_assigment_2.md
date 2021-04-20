@@ -16,4 +16,5 @@ See the following for an example template:
 
 ## Submission:
 Respond to the discussion post link for Group Assignment #2, here:
+
 https://github.com/albertkun/21S-ASIAAM-191A/discussions/92
