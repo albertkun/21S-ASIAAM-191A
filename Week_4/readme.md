@@ -1,5 +1,5 @@
 # Week 4 - Developing for Civil Society
-
+Check out the course "Weeky" if you are having trouble finding assignments.
 ## Lecture
 - [Developing for civil society](./Materials/AA191_S_W4_Lecture_4.pdf)
 
