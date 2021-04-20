@@ -23,6 +23,12 @@ Carolanne Link is the Project Manager for the [UCLA Web Accessibility Initiative
 
 - [Pre-lab Readings](./Materials/pre-lab.md)
 
+### Due Tuesday 4/26:
+Readings:
+- https://handsondataviz.org/guiding.html
+- https://handsondataviz.org/public.html
+
+
 ## Extra Credit Assignments 
 ### Due Thursday 4/22:
 - [Coded Bias viewing](https://github.com/albertkun/21S-ASIAAM-191A/discussions/91)
