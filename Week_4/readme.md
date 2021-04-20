@@ -15,7 +15,7 @@
 ### Visiting Voices: Carolanne Link
 ![./Materials/media/carolannelink.jpg](./Materials/media/carolannelink.jpg)
 
-Carolanne Link is the Project Manager for the [UCLA Web Accessibility Initiative](https://dcp.ucla.edu/uwai/) UCLA and is a  disability advocate.
+Carolanne Link is the Project Manager for the [UCLA Web Accessibility Initiative](https://dcp.ucla.edu/uwai/) and is a  disability advocate.
 
 ## Assignments
 ### Due Thursday 4/22:
