@@ -2,11 +2,10 @@ We will be working with Google Forms in the lab this week, so please read the fo
 
 Read:
 - From [Participatory Asset Mapping](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf)
-  - Read:
-    - [What is Participatory Asset mapping?](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3A.15491)
-    - [When should you do Participatory Asset mapping?](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3A.15504)
-    - [How do you do Participatory Asset mapping?](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3A.15526)
-    - [Ethics in community based Participatory Action research](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3AEthics%20in%20Community%20Based%20Participatory%20Action%20Research )
+  - [What is Participatory Asset mapping?](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3A.15491)
+  - [When should you do Participatory Asset mapping?](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3A.15504)
+  - [How do you do Participatory Asset mapping?](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3A.15526)
+  - [Ethics in community based Participatory Action research](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf#CRL_TOOLKIT_AssetMapping_4_2012.indd%3AEthics%20in%20Community%20Based%20Participatory%20Action%20Research )
 
 - Harvard tip sheet for designing questions:
 [https://psr.iq.harvard.edu/files/psr/files/PSRQuestionnaireTipSheet_0.pdf](https://psr.iq.harvard.edu/files/psr/files/PSRQuestionnaireTipSheet_0.pdf)
