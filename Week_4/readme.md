@@ -1,7 +1,7 @@
 # Week 4 - Developing for Civil Society
 
 ## Lecture
-- [Developing for civil society](./Materials/AA191_S_W2_Lecture_4.pdf)
+- [Developing for civil society](./Materials/AA191_S_W4_Lecture_4.pdf)
 
 
 ## Lab
