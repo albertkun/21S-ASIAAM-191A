@@ -15,4 +15,5 @@ See the following for an example template:
 - https://docs.google.com/document/d/1OWUUxebPNsqw4K97gznvTkGLEr6QDAbXWqX2BGvernI/edit?usp=sharing
 
 ## Submission:
-Respond to the discussion post link for Group Assignment #2.
+Respond to the discussion post link for Group Assignment #2, here:
+https://github.com/albertkun/21S-ASIAAM-191A/discussions/92
