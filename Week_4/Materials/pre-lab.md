@@ -1,6 +1,4 @@
-We will be working with Google Forms in the lab this week, so please read the following to familiarize yourself with data and working with Google Forms. 
-
-While participatory asset mapping is not relevant to all groups, the first reading demonstrates important considerations in designing any participatory mapping activity.
+We will be working with Google Forms in the lab this week, so please read the following to familiarize yourself with data and working with Google Forms. The first reading demonstrates important considerations in designing any participatory mapping activity.
 
 Read:
 - From [Participatory Asset Mapping](https://www.communityscience.com/knowledge4equity/AssetMappingToolkit.pdf)
