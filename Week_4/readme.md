@@ -2,7 +2,10 @@
 [Check out the new course "Weeky" if you are having trouble finding assignments.](https://github.com/albertkun/21S-ASIAAM-191A/wiki)
 ## Lecture
 - [Developing for civil society](./Materials/AA191_S_W4_Lecture_4.pdf)
+- [Nina Kin- Lessons Learned in Building Tech For Good](https://docs.google.com/presentation/d/17qQyfPciNF09fCtEwmsR0uPNbs3RbDqts9StZQLXMfg/edit#slide=id.gcddf4fe401_0_237)
+- [Carolanne Link- Empowering Narratives: How Not to F@#$ It Up](https://docs.google.com/presentation/d/1jPcFWoSd7HCX6y9TwKmsyjbhD-CWNpKhJSH8Km6B34E/edit#slide=id.p)
 
+Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ## Lab
 - Meaningful Survey Design and APIs
