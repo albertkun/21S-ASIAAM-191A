@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Yosemite",
-        "Link": <<https://en.wikipedia.org/wiki/Yosemite_National_Park>
+        "Link": "https://en.wikipedia.org/wiki/Yosemite_National_Park"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Joshua Tree",
-        "Link": <https://en.wikipedia.org/wiki/Joshua_Tree_National_Park>
+        "Link": "https://en.wikipedia.org/wiki/Joshua_Tree_National_Park"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": <Denali",
+        "Name": "Denali",
         "Link": "https://en.wikipedia.or>/wiki/Denali_National_Park_and_Preserve"
       },
       "geometry": {
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Grand Canyon",
-        "Link": <https://en.wikipedia.org/wiki/Grand_Canyon_National_Park>
+        "Link": "https://en.wikipedia.org/wiki/Grand_Canyon_National_Park"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Haleakalā",
-        "Link": <https://en.wikipedia.org/wiki/Haleakal%C4%81_National_Park>
+        "Link": "https://en.wikipedia.org/wiki/Haleakal%C4%81_National_Park"
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": <Katmai",
+        "Name": "Katmai",
         "Link": "https://en.wikipedia.or>/wiki/Katmai_National_Park_and_Preserve"
       },
       "geometry": {
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "Name": "North Cascades",
-        "Link": <https://en.wikipedia.org/wiki/North_Cascades_National_Park>
+        "Link": "https://en.wikipedia.org/wiki/North_Cascades_National_Park"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Pinnicles",
-        "Link": <https://en.wikipedia.org/wiki/Pinnacles_National_Park>
+        "Link": "https://en.wikipedia.org/wiki/Pinnacles_National_Park"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Zion",
-        "Link": <https://en.wikipedia.org/wiki/Zion_National_Park>
+        "Link": "https://en.wikipedia.org/wiki/Zion_National_Park"
       },
       "geometry": {
         "type": "Point",
