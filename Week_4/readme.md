@@ -13,7 +13,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 ### Visiting Voices: Nina Kin
 ![./Materials/media/ninakin.png](./Materials/media/ninakin.png)
 
-[Nina Kin](http://www.ninakin.com/) works as the [Technical Lead at Los Angeles Metro](https://developer.metro.net/api/) and active in spaces of civic tech and mapping.Contact: [KinN@metro.net](KinN@metro.net)
+[Nina Kin](http://www.ninakin.com/) works as the [Technical Lead at Los Angeles Metro](https://developer.metro.net/api/) and active in spaces of civic tech and mapping. Contact: [KinN@metro.net](KinN@metro.net)
 
 ### Visiting Voices: Carolanne Link
 ![./Materials/media/carolannelink.jpg](./Materials/media/carolannelink.jpg)
