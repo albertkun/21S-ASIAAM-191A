@@ -13,12 +13,12 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 ### Visiting Voices: Nina Kin
 ![./Materials/media/ninakin.png](./Materials/media/ninakin.png)
 
-[Nina Kin](http://www.ninakin.com/) works as the [Technical Lead at Los Angeles Metro](https://developer.metro.net/api/) and active in spaces of civic tech and mapping.
+[Nina Kin](http://www.ninakin.com/) works as the [Technical Lead at Los Angeles Metro](https://developer.metro.net/api/) and active in spaces of civic tech and mapping.Contact: [KinN@metro.net](KinN@metro.net)
 
 ### Visiting Voices: Carolanne Link
 ![./Materials/media/carolannelink.jpg](./Materials/media/carolannelink.jpg)
 
-Carolanne Link is the Project Manager for the [UCLA Web Accessibility Initiative](https://dcp.ucla.edu/uwai/) and is a  disability advocate.
+Carolanne Link is the Project Manager for the [UCLA Web Accessibility Initiative](https://dcp.ucla.edu/uwai/) and is a disability advocate. Contact: [clink@oarc.ucla.edu](clink@oarc.ucla.edu)
 
 ## Assignments
 ### Due Thursday 4/22:
