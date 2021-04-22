@@ -8,6 +8,7 @@
 Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ## Lab
+- [Meaningful Survey Design Lecture](./Materials/AA191_S_W4_Lab_4.pdf)
 - [Meaningful Survey Design](Lab/readme.md)
 
 ### Visiting Voices: Nina Kin
