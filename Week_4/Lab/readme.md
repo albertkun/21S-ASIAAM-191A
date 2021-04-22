@@ -4,7 +4,7 @@
 > - Understand how to create a Google form with meaningful questions
 > - Know how to embed a Google Form into a website
 
-> ### Advanced Objectives
+> ### Bonus:
 > - Use Microsoft Forms and Flow to connect a translated form to Google Sheets.
 
 Start by creating a week4 folder in your lab assignments repo.
