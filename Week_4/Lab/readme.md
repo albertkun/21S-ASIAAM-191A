@@ -6,7 +6,6 @@
 
 > ### Advanced Objectives
 > - Use Microsoft Forms and Flow to connect a translated form to Google Sheets.
-> - Add user interactivity with JavaScript functions
 
 Start by creating a week4 folder in your lab assignments repo.
 
@@ -130,9 +129,12 @@ Add one question on `What language do you primary speak at home`?
 And another on `What is your age`?
 ![](media/googleForms13.png)
 
-Go back to the question `Do you speak English fluently?` and for `No` choose `Go to Section 2`.
+Go back to the question `Do you speak English fluently?` and for `No`:
+![](media/googleForms14.png)
 
+Choose `Go to Section 2`.
 
+![](media/googleForms15.png)
 
 Scroll to the bottom and add a new section:
 ![](media/googleForms16a.png)
