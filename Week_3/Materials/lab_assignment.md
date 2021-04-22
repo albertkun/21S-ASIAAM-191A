@@ -6,7 +6,7 @@ In this week's lab, we learned how functions are helpful for automating tasks. F
 
 The requirements are:
 
-- Add at least 3 markers to the map using a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+- Add at least 3 markers to the map using a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function)
 - Use the [`<button>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button) to execute a JavaScript function to interact with your map 
 - Add an [Event Listener](https://developer.mozilla.org/en-US/docs/Web/API/EventListener) that executes the JavaScript function to interact with your map 
 
@@ -16,7 +16,6 @@ The requirements are:
 
 ## Submission
 - Commit your changes to GitHub
-- Commit and publish your file to [GitHub pages](https://guides.github.com/features/pages/)
 - Find your `index.html` in the `Week_03` folder and copy the URL. It should look something like this:
   - https://albertkun.github.io/21S-ASIAAM-191A-Assignments/Week_03/index.html
 - Paste your link as a comment in the Discussion forum for Lab Assignment #3

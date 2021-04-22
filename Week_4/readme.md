@@ -22,6 +22,8 @@ Carolanne Link is the Project Manager for the [UCLA Web Accessibility Initiative
 
 ## Assignments
 ### Due Thursday 4/22:
+- [Lab Assignment #3](https://github.com/albertkun/21S-ASIAAM-191A/wiki/Lab-Assignment-3)
+
 - [Group Assignment #2](../Week_3/Materials/../../Week_2/Materials/group_assigment_2.md)
 
 - [Pre-lab Readings](./Materials/pre-lab.md)

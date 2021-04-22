@@ -445,7 +445,7 @@ In this lab, we learned how functions are helpful for automating tasks. Function
 
 The requirements are:
 
-- Add at least 3 markers to the map using a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+- Add at least 3 markers to the map using a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function)
 - Use the [`<button>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button) to execute a JavaScript function to interact with your map 
 - Add an [Event Listener](https://developer.mozilla.org/en-US/docs/Web/API/EventListener) that executes the JavaScript function to interact with your map 
 
