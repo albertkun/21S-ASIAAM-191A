@@ -8,7 +8,7 @@
 Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ## Lab
-- Meaningful Survey Design and APIs
+- [Meaningful Survey Design](Lab/readme.md)
 
 ### Visiting Voices: Nina Kin
 ![./Materials/media/ninakin.png](./Materials/media/ninakin.png)
