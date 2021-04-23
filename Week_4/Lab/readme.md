@@ -42,7 +42,7 @@ Create a `style` folder and create this `style.css`:
     body{
         display:grid;
         grid-template-columns: 1fr 1fr; /* this creates an even two column layout*/
-        grid-template-areas: "mappanel sidepanel"
+        grid-template-areas: "mappanel sidepanel" /* this creates one row with map panel on the left and sidepanel on the right */
     }
 
     #map{
