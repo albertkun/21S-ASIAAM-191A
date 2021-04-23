@@ -70,7 +70,7 @@ fetch(url)
 		})
     .then(data =>{
         console.log(data)
-    }
+    })
 ```
 
 ## Creating a new Google Form
