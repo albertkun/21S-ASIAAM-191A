@@ -2,8 +2,7 @@
 
 ## Lecture
 - [Connecting the dots of technology and ethics](./Materials/AA191_S_W4_Lecture_4.pdf)
-- [Nina Kin- Lessons Learned in Building Tech For Good](https://docs.google.com/presentation/d/17qQyfPciNF09fCtEwmsR0uPNbs3RbDqts9StZQLXMfg/edit#slide=id.gcddf4fe401_0_237)
- 
+
 Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ## Lab
@@ -24,14 +23,10 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 ### Due Tuesday 5/4:
 - [Thinking Cap #5](https://github.com/albertkun/21S-ASIAAM-191A/discussions/133)
 
-Readings:
+#### Readings:
 1. [Crampton, J. (1995) The Ethics of GIS.]()
 2. [Marx, P. (2020) Don’t Blame Social Media. Blame Capitalism.](https://www.jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma)
 
-
 ## Extra Credit Assignment
-### Due Thursday 5/4:
-- Reading Response
-  
-### Due Tuesday 4/26:
-- [Extra Thinking Cap](https://github.com/albertkun/21S-ASIAAM-191A/discussions/122)
+### Due Tuesday 5/4:
+- [Extra Reading Response](https://github.com/albertkun/21S-ASIAAM-191A/discussions/132)
