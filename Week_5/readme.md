@@ -9,7 +9,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 - Loops and APIs 
 
 ### Visiting Voices: Adriane Hoff 
-<img src="./Materials/media/adrianehoff.png" alt="drawing" width="400"/>
+<img src="./Materials/media/adrianehoff.png" alt="drawing" width="200"/>
 
 [Adriane Hoff](https://twitter.com/hoffbeatenpath) is the out-going president of the [Wilshire Center Koreatown Neighborhood Council (WCKNC)](https://wcknc.la/) and community activist. She is also on the steering committee on [Streets For All](https://streetsforall.org/), a transportation advocacy group in Los Angeles.
 
