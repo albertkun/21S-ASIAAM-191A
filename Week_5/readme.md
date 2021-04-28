@@ -1,4 +1,4 @@
-# Week 4 - Society, Technology, and Ethics
+# Week 5 - Society, Technology, and Ethics
 
 ## Lecture
 - [Connecting the dots of technology and ethics](./Materials/AA191_S_W5_Lecture_5.pdf)
