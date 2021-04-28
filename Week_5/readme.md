@@ -23,7 +23,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 - [Thinking Cap #5](https://github.com/albertkun/21S-ASIAAM-191A/discussions/133)
 
 #### Readings:
-1. [Crampton, J. (1995) The Ethics of GIS.]()
+1. [Crampton, J. (1995) The Ethics of GIS.](./Materials/CramptonCaGISEthics1995.pdf)
 2. [Marx, P. (2020) Don’t Blame Social Media. Blame Capitalism.](https://www.jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma)
 
 ## Extra Credit Assignment
