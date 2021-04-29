@@ -88,7 +88,7 @@ addMarker(37,-122,'home land!')
 Open up your Google Sheet from last week. 
 
 For me this is:
-https://docs.google.com/spreadsheets/d/14ueeENLhzGmnKXspzmiy0yNUHytB8lEKNb5TWlJp_9k/edit#gid=0
+https://docs.google.com/spreadsheets/d/1j3a2do9HIS6xvpBsKMjmI4soNaqGdlnIkwYQHktmp1U/edit#gid=1830841945
 
 Go to column for `Location` and remember what column it is, for me it is `C`:
 ![](../Lab/media/gs_0a.png)
