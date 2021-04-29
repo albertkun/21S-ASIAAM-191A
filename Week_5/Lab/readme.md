@@ -77,7 +77,7 @@ fetch(url)
         console.log(data)
     })
 
-function addMarker(lat,lon,message){
+function addMarker(lat,lng,message){
         L.marker([lat,lng]).addTo(map).bindPopup(`<h2>${message}</h2>`)
         return message    
 }
