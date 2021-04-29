@@ -13,6 +13,6 @@ The requirements are:
 - Commit your changes to GitHub
 - Find your `index.html` in the `Week_05` folder and copy the URL. It should look something like this:
   - https://albertkun.github.io/21S-ASIAAM-191A-Assignments/Week_03/index.html
-- Paste your link as a comment in the Discussion forum for Lab Assignment #4
+- Paste your link as a comment in the Discussion forum for Lab Assignment #4:
+  - https://github.com/albertkun/21S-ASIAAM-191A/discussions/137
 
-https://github.com/albertkun/21S-ASIAAM-191A/discussions/123
