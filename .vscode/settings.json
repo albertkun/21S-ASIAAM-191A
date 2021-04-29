@@ -1,3 +1,6 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "21S-191A"
+    "liveServer.settings.multiRootWorkspaceName": "21S-191A",
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "screencastMode.mouseIndicatorColor": "#AA00FF",
+    "screencastMode.mouseIndicatorSize": 30
 }

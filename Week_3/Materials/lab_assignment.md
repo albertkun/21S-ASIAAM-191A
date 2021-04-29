@@ -1,4 +1,3 @@
-
 ## Lab Assignment #3 - JavaScript FUNctions
 ### Due 4/22
 
