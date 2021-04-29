@@ -6,7 +6,7 @@
 Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ## Lab
-- Loops and APIs 
+- [Loops and APIs](./Lab/readme.md)
 
 ### Visiting Voices: Adriane Hoff 
 <img src="./Materials/media/adrianehoff.png" alt="drawing" width="200"/>
@@ -16,8 +16,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 ## Assignments
 ### Due Thursday 4/29:
 
-- [Group Assignment #3](../Week_3/Materials/../../Week_4/Materials/Group_Assigment_3.md)
-
+- [Group Assignment #3](../Week_4/Materials/Group_Assignment_3.md)
 
 ### Due Tuesday 5/4:
 - [Thinking Cap #5](https://github.com/albertkun/21S-ASIAAM-191A/discussions/133)
@@ -25,6 +24,10 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 #### Readings:
 1. [Crampton, J. (1995) The Ethics of GIS.](./Materials/CramptonCaGISEthics1995.pdf)
 2. [Marx, P. (2020) Don’t Blame Social Media. Blame Capitalism.](https://www.jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma)
+
+### Due Thursday 5/6:
+- [Lab Assignment #4](./Materials/lab_assignment.md)
+- [Group Assignment #4](./Materials/group_assignment_4.md)
 
 ## Extra Credit Assignment
 ### Due Tuesday 5/4:
