@@ -26,7 +26,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 2. [Marx, P. (2020) Don’t Blame Social Media. Blame Capitalism.](https://www.jacobinmag.com/2020/09/social-media-platform-capitalism-the-social-dilemma)
 
 ### Due Thursday 5/6:
-- [Lab Assignment #4](./Materials/lab_assignment.md)
+- [Lab Assignment #4](./Lab/lab_assignment.md)
 - [Group Assignment #4](./Materials/group_assignment_4.md)
 
 ## Extra Credit Assignment

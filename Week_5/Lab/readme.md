@@ -443,10 +443,10 @@ Open the console and look at our data, we should take note of our field names an
 
 ```js
 // old code
-function addMarker(){
-        L.marker([lat,lng]).addTo(map).bindPopup(`<h2>${name}</h2>`)
-        return name    
-}
+// function addMarker(){
+//         L.marker([lat,lng]).addTo(map).bindPopup(`<h2>${name}</h2>`)
+//         return name    
+// }
 
 function addMarker(data){
         // console.log(data)
@@ -455,7 +455,115 @@ function addMarker(data){
         return data.timestamp
 }
 ```
+Final Code:
 
-Congratulations on finishing the lab! If you have gotten this far, you should be able to submit the assignment below pretty smoothly:
+> js/init.js
+```js
+const map = L.map('map').setView([34.0709, -118.444], 5);
 
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+function addMarker(data){
+        // console.log(data)
+        // these are the names of our fields in the google sheets:
+        L.marker([data.latitude,data.longitude]).addTo(map).bindPopup(`<h2>${data.timestamp}</h2>`)
+        return data.timestamp
+}
+
+let url = "https://spreadsheets.google.com/feeds/list/1j3a2do9HIS6xvpBsKMjmI4soNaqGdlnIkwYQHktmp1U/oua1awz/public/values?alt=json"
+
+fetch(url)
+	.then(response => {
+		return response.json();
+		})
+    .then(data =>{
+                // console.log(data)
+                formatData(data)
+        }
+)
+
+
+function formatData(theData){
+        const formattedData = [] /* this array will eventually be populated with the contents of the spreadsheet's rows */
+        const rows = theData.feed.entry
+        for(const row of rows) {
+          const formattedRow = {}
+          for(const key in row) {
+            if(key.startsWith("gsx$")) {
+                  formattedRow[key.replace("gsx$", "")] = row[key].$t
+            }
+          }
+          formattedData.push(formattedRow)
+        }
+        console.log(formattedData)
+        formattedData.forEach(addMarker)        
+}
+```
+
+> index.html
+``` html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Basic Leaflet Map</title>
+        <meta charset="utf-8" />
+        <link rel="shortcut icon" href="#">
+        <link rel="stylesheet" href="style/style.css">
+
+        <!-- Leaflet's css-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+        <!-- Leaflet's JavaScript-->
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    </head>
+    
+    <body>
+        <div id="map"></div>
+        <div id="survey">
+        <!-- this is the iframe for our survey -->
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqVT10bEbUrULMu6Etwj4ZBXGf-LAxcKohAINFbIdZmHS6OA/viewform?embedded=true" width="640" height="654" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        </div>
+        <script src="js/init.js"></script>
+    </body>
+</html>
+```
+
+>style/style.css
+```css
+body{
+    display:grid;
+    grid-template-columns: 1fr 1fr; /* this creates an even two column layout*/
+    grid-template-areas: "mappanel sidepanel" /* this creates one row with map panel on the left and sidepanel on the right */
+}
+
+#map{
+    height:90vh;
+    grid-area: mappanel;
+} 
+
+#survey{
+    grid-area: sidepanel;
+} 
+```
+Congratulations on finishing the lab! You only need to add a few data fields in order to finish the lab assignment.
+
+## Lab Assignment #4 - Loops and APIs
+### Due 5/6
+
+In this week's lab, we learned how to loop through data and connect to an API. Your task is to create a mini-version of the final group project for the class that intakes data and maps it.
+
+The requirements are:
+
+- Use any type of [for-loop](https://www.w3schools.com/js/js_loop_for.asp) within a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) that adds API data from a Google Spreadsheet form.
+- Add a pop-up with at least 2 fields from the Google Form.
+- Add data from Google Spreadsheets into your map
+
+## Submission
+- Commit your changes to GitHub
+- Find your `index.html` in the `Week_05` folder and copy the URL. It should look something like this:
+  - https://albertkun.github.io/21S-ASIAAM-191A-Assignments/Week_03/index.html
+- Paste your link as a comment in the Discussion forum for Lab Assignment #4: 
+  - https://github.com/albertkun/21S-ASIAAM-191A/discussions/123
 

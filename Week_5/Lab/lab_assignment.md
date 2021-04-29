@@ -5,11 +5,9 @@ In this week's lab, we learned how to loop through data and connect to an API. Y
 
 The requirements are:
 
-- Use a [for-loop] within a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) that adds API data from a Google Spreadsheet form.
+- Use any type of [for-loop](https://www.w3schools.com/js/js_loop_for.asp) within a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) that adds API data from a Google Spreadsheet form.
+- Add a pop-up with at least 2 fields from the Google Form.
 - Add data from Google Spreadsheets into your map
-
-### Extra Credit
-- Try using another [API](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
 
 ## Submission
 - Commit your changes to GitHub
