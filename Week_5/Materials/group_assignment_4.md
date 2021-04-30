@@ -38,7 +38,7 @@ More examples:
 https://docs.google.com/presentation/d/1famiX2lWNtsAk-o3_S48Ka7bImBAvRq3UXBKllDwMvw/edit#slide=id.p
 
 ## Submission
-Have a group member comment on the following thread with the link to the diagrams or photos:
+Have a group member comment on the following thread with links to the diagrams/photos:
 https://github.com/albertkun/21S-ASIAAM-191A/discussions/135
 
 Submit your revised survey using this form:
