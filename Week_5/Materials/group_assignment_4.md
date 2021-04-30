@@ -15,8 +15,8 @@ Generate a diagram that explains how your survey questions and objectives in the
 
 Your diagram must have these components:
    1. Represent the specific community are you trying to uplift.
-   2. Represent the goal of the survey and your project. (E.g. Why it is important to empower that particular community?)
-   3. Represent each question in your survey and draw lines connecting them to either the community circle or the empowerment box. 
+   2. Represent the survey/project goal.
+   3. Represent each question in your survey and draw lines connecting them to either the community representation or the survey/project goal. 
    4. As you draw the lines from each question, explain what connection is being made.
 
 Feel free to get creative, but be sure to emphasis how your questions are related to the objective of the survey.
