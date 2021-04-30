@@ -13,7 +13,7 @@ There are two seperate parts to this assignment. Both deliverables can use the f
 ## Part 1: Survey Diagram
 Generate a diagram that explains how your survey questions and objectives in the memo are connected to goal of empowering the community. 
 
-Your diagram must address have these components:
+Your diagram must have these components:
    1. Represent the specific community are you trying to uplift.
    2. Represent the goal of the survey and your project. (E.g. Why it is important to empower that particular community?)
    3. Represent each question in your survey and draw lines connecting them to either the community circle or the empowerment box. 
