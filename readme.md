@@ -257,7 +257,7 @@ If you have any issues with installing the above, please do not hesitate to cont
 <tr class="odd">
 <td>6</td>
 <td>5/4</td>
-<td><strong>Coding as collaboration</strong></td>
+<td><strong>Human-Centered Design/strong></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -275,7 +275,7 @@ If you have any issues with installing the above, please do not hesitate to cont
 <tr class="odd">
 <td>8</td>
 <td>5/18</td>
-<td><strong>Limits of Technology</strong></td>
+<td><strong>Coding as Collaboration</strong></td>
 </tr>
 <tr class="even">
 <td></td>
