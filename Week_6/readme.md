@@ -9,7 +9,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 -  Web Design with CSS Grid
 
 ### Visiting Voices: Yoh Kawano 
-<img src="./Materials/media/yohkawano.jpg" alt="yoh picture" width="200"/>
+<img src="./Materials/media/yohkawano.jpg" alt="yoh picture" width="350"/>
 
 [Yoh Kawano](https://idre.ucla.edu/people/yoh-kawano) is a research coordinator at UCLA’s [Institute for Digital Research and Technology](https://idre.ucla.edu/people/yoh-kawano). His community empowerment is on narratives in Japan’s Fukushima prefecture following the 2011 Tsunami. 
 
