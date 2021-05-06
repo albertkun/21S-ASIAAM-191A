@@ -7,6 +7,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ## Lab
 -  [Design DeciCSSions](./Lab/lab_assignment.md)
+-  [Lab Slides](./Materials/AA191_S_W6_Lab_6.pdf)
 
 ### Visiting Voices: Yoh Kawano 
 <img src="./Materials/media/yohkawano.jpg" alt="yoh picture" width="350"/>
