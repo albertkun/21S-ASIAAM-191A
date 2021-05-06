@@ -17,7 +17,7 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ### Due Thursday 5/6:
 - [Lab Assignment #4](./Lab/lab_assignment.md)
-- [Group Assignment #4](./Materials/group_assignment_4.md)
+- [Group Assignment #4](../Week5/Materials/group_assignment_4.md)
 - [Pre-lab](./Materials/pre-lab.md) 
 
 #### Readings:
