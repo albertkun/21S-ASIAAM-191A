@@ -6,7 +6,7 @@
 Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 
 ## Lab
--  Web Design with CSS Grid
+-  [Design DeciCSSions](./Lab/lab_assignment.md)
 
 ### Visiting Voices: Yoh Kawano 
 <img src="./Materials/media/yohkawano.jpg" alt="yoh picture" width="350"/>
@@ -19,6 +19,12 @@ Recordings can now be found here: https://tinyurl.com/eb6pyw3k
 - [Lab Assignment #4](../Week_5/Lab/lab_assignment.md)
 - [Group Assignment #4](../Week_5/Materials/group_assignment_4.md)
 - [Pre-lab](./Materials/pre-lab.md) 
+
+### Due Tuesday 5/11:
+- [Thinking Cap #6](https://github.com/albertkun/21S-ASIAAM-191A/discussions/144)
+  
+### Due Thursday 5/13:
+- [Lab Assignment #5](./Lab/lab_assignment.md)
 
 #### Readings:
 1. [Costanza-Chock, S. (2018) Design Justice.](./Materials/Design_Justice.pdf)
