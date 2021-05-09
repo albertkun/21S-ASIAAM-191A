@@ -4,7 +4,7 @@
 <!-- - [Interfaces for communities](./Materials/AA191_S_W6_Lecture_6.pdf) -->
 
 ## Lab
-<!-- -  [Map Layers and Visual Design](./Lab/) -->
+-  [Map Layers and Visual Design](./Lab/)
 -  Map Layers and Visual Design
 
 ## Assignments
@@ -15,6 +15,6 @@
 ### Due Tuesday 5/18:
 - Thinking Cap #7
 <!-- - [Thinking Cap #7](https://github.com/albertkun/21S-ASIAAM-191A/discussions/144) -->
-  
+
 <!-- #### Readings: -->
 <!-- 1. [Costanza-Chock, S. (2018) Design Justice.](./Materials/Design_Justice.pdf) -->
