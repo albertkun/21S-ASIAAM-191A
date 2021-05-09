@@ -4,7 +4,7 @@
 <!-- - [Interfaces for communities](./Materials/AA191_S_W6_Lecture_6.pdf) -->
 
 ## Lab
--  [Map Layers and Visual Design](./Lab/)
+<!-- -  [Map Layers and Visual Design](./Lab/) -->
 -  Map Layers and Visual Design
 
 ## Assignments
