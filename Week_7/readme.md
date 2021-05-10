@@ -1,7 +1,7 @@
-# Week 7 - Interfaces for communities
+# Week 7 - The Political Science of Civil Society
 ## Lecture
-- Interfaces for communities
-<!-- - [Interfaces for communities](./Materials/AA191_S_W6_Lecture_6.pdf) -->
+- The Political Science of Civil Society
+<!-- - [The Political Science of Civil Society](./Materials/AA191_S_W6_Lecture_6.pdf) -->
 
 ## Lab
 <!-- -  [Map Layers and Visual Design](./Lab/) -->
