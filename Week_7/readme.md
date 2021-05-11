@@ -1,7 +1,6 @@
-# Week 7 - The Political Science of Civil Society
+# Week 7 - From Design to Data Justice
 ## Lecture
-- The Political Science of Civil Society
-<!-- - [The Political Science of Civil Society](./Materials/AA191_S_W6_Lecture_6.pdf) -->
+- [From Design to Data Justice](./Materials/AA191_S_W7_Lecture_7.pdf)
 
 ## Lab
 <!-- -  [Map Layers and Visual Design](./Lab/) -->
@@ -13,8 +12,7 @@
 - [Lab Assignment #5](./Lab/lab_assignment.md)
 
 ### Due Tuesday 5/18:
-- Thinking Cap #7
-<!-- - [Thinking Cap #7](https://github.com/albertkun/21S-ASIAAM-191A/discussions/144) -->
+- [Thinking Cap #7](https://github.com/albertkun/21S-ASIAAM-191A/discussions/144)
 
-<!-- #### Readings: -->
-<!-- 1. [Costanza-Chock, S. (2018) Design Justice.](./Materials/Design_Justice.pdf) -->
+#### Readings:
+1. [Dencik, L., Redden, J., and Treré, E. (2019) Exploring Data Justice: Conceptions, Applications and Directions](./Materials/DataJustice.pdf)
