@@ -257,21 +257,21 @@ If you have any issues with installing the above, please do not hesitate to cont
 <tr class="odd">
 <td>6</td>
 <td>5/4</td>
-<td><strong>Human-Centered Design/strong></td>
+<td><strong>Human-Centered Design</strong></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>5/6</td>
-<td><strong>Lab – Learning how to troubleshoot</strong></td>
+<td><strong>CSS and Design</strong></td>
 <tr class="odd">
 <td>7</td>
 <td>5/11</td>
-<td><strong>Activism and Technology</strong></td>
+<td><strong>Interfaces for communities</strong></td>
 </tr>
 <tr class="even">
 <td></td>
 <td>5/13</td>
-<td><strong>Lab – Touching up our web map</strong></td>
+<td><strong>Lab – Map Layers and Visual Design</strong></td>
 <tr class="odd">
 <td>8</td>
 <td>5/18</td>
@@ -280,11 +280,11 @@ If you have any issues with installing the above, please do not hesitate to cont
 <tr class="even">
 <td></td>
 <td>5/20</td>
-<td><strong>Lab – Tying it all together and styling your map more</strong></td>
+<td><strong>Lab – Troubleshooting together</strong></td>
 <tr class="odd">
 <td>9</td>
 <td>5/25</td>
-<td><strong>Building lasting connections with civil society</strong></td>
+<td><strong>Building connections with civil society</strong></td>
 </tr>
 <tr class="even">
 <td></td>
