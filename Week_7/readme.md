@@ -3,8 +3,7 @@
 - [From Design to Data Justice](./Materials/AA191_S_W7_Lecture_7.pdf)
 
 ## Lab
-<!-- -  [Map Layers and Visual Design](./Lab/) -->
--  Map Layers and Visual Design
+-  [Map Layers and Visual Design](./Lab/)
 
 ## Assignments
 
