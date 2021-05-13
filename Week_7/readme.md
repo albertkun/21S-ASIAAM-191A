@@ -14,7 +14,7 @@
 - [Thinking Cap #7](https://github.com/albertkun/21S-ASIAAM-191A/discussions/144)
 
 ### Due Thursday 5/20:
-- [Lab Assignment #5](./Lab/lab_assignment.md)
+- [Lab Assignment #6](./Lab/lab_assignment.md)
 
 #### Readings:
 1. [Dencik, L., Redden, J., and Treré, E. (2019) Exploring Data Justice: Conceptions, Applications and Directions](./Materials/DataJustice.pdf)
