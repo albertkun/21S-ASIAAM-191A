@@ -10,8 +10,6 @@ Group | Members
 [Food Equity](https://github.com/Wny-Duong/WebDev-GIS-Health-Equity)| Ericko Halim, Latisha Sumardy, Wilny Duong
 [Mental Health](https://github.com/KenNL42/ASIAM-191A-Final-Project)| Michelle Nguyen, Nathakin Leepreecha, Vanessa Ta
 
-
-
 ### Other groups:
 Group | Members
 --|--
