@@ -707,9 +707,9 @@ L.control.layers(null,layers).addTo(map)
 ```
 
 
-## Lab Assignment #5 - Visual Importance
+## Lab Assignment #5 - Conditional Visual Importance
 ### Due 5/20
-Using your lab assignment from `week 7`, categorize your survey data to try to convey a message.
+Using your assignment from `week 6`, categorize your survey data to convey a message or theme about your map.
 
 The requirements are:
 - Use at least 2 different [layer groups](https://leafletjs.com/reference.html#FeatureGroup).
