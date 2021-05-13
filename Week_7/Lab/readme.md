@@ -305,7 +305,7 @@ function formatData(theData){
 We have to add our layers after the `forEach` loop finishes, otherwise the code will run only for the first marker.
 
 ### Layer Controls
-One big benefit of using Leaflet LayerGroups is that we can add `controls` to the map which allows us to turn on and off layers.
+One big benefit of using Leaflet FeatureGroups is that we can add `controls` to the map which allows us to turn on and off layers.
 
 Let's add our list of layers as an `object`:
 ```js
@@ -315,7 +315,7 @@ let layers = {
 	"Speaks Other Languages": speakOtherLanguage
 }
 ```
-The first property name is our `alias` or what the users will see, and the property key is the Leaflet `LayerGroup` that we created earlier.
+The first property name is our `alias` or what the users will see, and the property key is the Leaflet `FeatureGroup` that we created earlier.
 
 Next we will add a Leaflet `controlGroup`:
 
@@ -712,7 +712,7 @@ L.control.layers(null,layers).addTo(map)
 Using your lab assignment from `week 7`, categorize your survey data to try to convey a message.
 
 The requirements are:
-- Use at least 2 different [layer groups](https://leafletjs.com/reference.html#layergroup).
+- Use at least 2 different [layer groups](https://leafletjs.com/reference.html#FeatureGroup).
 - Use a [conditional `if-else` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - Use Leaflet's [`circle markers`](https://leafletjs.com/reference-1.7.1.html#circlemarker)
 - Add a title or a explanation that describes what is being shown
