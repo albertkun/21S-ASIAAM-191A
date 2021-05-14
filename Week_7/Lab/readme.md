@@ -263,10 +263,31 @@ function addMarker(data){
 ```
 Awesome! Now let's see our beautiful layers!
 
-Wait... again.. nothing happened? Why?
+ We also need to delete the line `.addTo(map)` after each marker, because we will add the `featureGroup` to the map instead of individual markers:
+
+```js
+// our Leaflet feature group layers waiting for content!
+let speakFluentEnglish = L.featureGroup();
+let speakOtherLanguage = L.featureGroup();
+
+function addMarker(data){
+    if(data.doyouspeakenglishfluently == "Yes"){
+        speakFluentEnglish.addLayer(L.marker([data.lat,data.lng]).bindPopup(`<h2>Speak English fluently</h2>`))
+        createButtons(data.lat,data.lng,data.location)
+        }
+    else{
+        speakOtherLanguage.addLayer(L.marker([data.lat,data.lng]).bindPopup(`<h2>Speak other languages</h2>`))
+        createButtons(data.lat,data.lng,data.location)
+    }
+    return data.timestamp
+}
+```
+
+Wait... our markers dispearred after we did that, why?
+
 <details>
 <summary><b>Answer</b></summary>
-Why added the markers to the Leaflet `group layers` but we have not added the `group layers` to the `Leaflet` map!!!
+Since we removed `addTo(map)`, we now need to add the `group layers` to to map!!
 </details>
 
 #### Adding our `group layers` to the `Leaflet` map
@@ -422,13 +443,11 @@ let circleOptions = {
 
 function addMarker(data){
     if(data.doyouspeakenglishfluently == "Yes"){
-        // speakFluentEnglish.addLayer(L.marker([data.lat,data.lng]).addTo(map).bindPopup(`<h2>Speak English fluently</h2>`))
-        speakFluentEnglish.addLayer(L.circleMarker([data.lat,data.lng],circleOptions).addTo(map).bindPopup(`<h2>Speak English fluently</h2>`))
+        speakFluentEnglish.addLayer(L.circleMarker([data.lat,data.lng],circleOptions).bindPopup(`<h2>Speak English fluently</h2>`))
         createButtons(data.lat,data.lng,data.location)
         }
     else{
-        speakOtherLanguage.addLayer(L.marker([data.lat,data.lng]).addTo(map).bindPopup(`<h2>Speak other languages</h2>`))
-        speakOtherLanguage.addLayer(L.circleMarker([data.lat,data.lng],circleOptions).addTo(map).bindPopup(`<h2>Speak other languages</h2>`))
+        speakOtherLanguage.addLayer(L.circleMarker([data.lat,data.lng],circleOptions).bindPopup(`<h2>Speak other languages</h2>`))
         createButtons(data.lat,data.lng,data.location)
     }
     return data.timestamp
@@ -459,11 +478,11 @@ Your final colorful `addMarker` function should look like this:
 function addMarker(data){
     if(data.doyouspeakenglishfluently == "Yes"){
         exampleOptions.fillColor = "green"
-        speakFluentEnglish.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).addTo(map).bindPopup(`<h2>Speak English fluently</h2>`))
+        speakFluentEnglish.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).bindPopup(`<h2>Speak English fluently</h2>`))
         createButtons(data.lat,data.lng,data.location)
         }
     else{
-        speakOtherLanguage.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).addTo(map).bindPopup(`<h2>Speak other languages</h2>`))
+        speakOtherLanguage.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).bindPopup(`<h2>Speak other languages</h2>`))
         createButtons(data.lat,data.lng,data.location)
     }
     return data.timestamp
@@ -651,12 +670,12 @@ let exampleOptions = {
 function addMarker(data){
     if(data.doyouspeakenglishfluently == "Yes"){
         exampleOptions.fillColor = "green"
-        speakFluentEnglish.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).addTo(map).bindPopup(`<h2>Speak English fluently</h2>`))
+        speakFluentEnglish.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).bindPopup(`<h2>Speak English fluently</h2>`))
         createButtons(data.lat,data.lng,data.location)
         }
     else{
         exampleOptions.fillColor = "red"
-        speakOtherLanguage.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).addTo(map).bindPopup(`<h2>Speak other languages</h2>`))
+        speakOtherLanguage.addLayer(L.circleMarker([data.lat,data.lng],exampleOptions).bindPopup(`<h2>Speak other languages</h2>`))
         createButtons(data.lat,data.lng,data.location)
     }
     return data.timestamp
