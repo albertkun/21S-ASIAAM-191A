@@ -6,6 +6,9 @@
 ## Lab
 -  Collaborating with GitHub and Using Turf.js
 <!-- -  [Collaborating with GitHub and Using Turf.js](./Lab/) -->
+### Visiting Voices: Lucy Shen
+<img src="./Materials/media/lucyshen.jpg" alt="Lucy picture" width="350"/>
+[Lucy Shen](https://twitter.com/lyrratic), was a candidate for ADEM District 25 and previous contender for FUSD School Board, As a youth mentor with StandUp for Kids, Girls Who Code, and Spark, Lucy empowered students from at-risk and minority communities.
 
 ## Assignments
 
