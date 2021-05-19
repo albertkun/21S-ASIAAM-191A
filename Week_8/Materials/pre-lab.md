@@ -10,6 +10,7 @@ Read the following explanations about GitHub before lab:
 Check the following websites:
 - Visit [turf.js](https://turfjs.org/)
 - [StoryMap Example from our Textbook](https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/)
+- [Leaflet Plugins](https://leafletjs.com/plugins.html)
 
 ### Optional Readings:
 - [Dangit, git! Fixing Git mistakes in plain English](https://dangitgit.com/)
