@@ -556,6 +556,8 @@ Esri_WorldGrayCanvas.addTo(map)
 ```
 Be sure to delete or comment out the other basemap, as you don't need two basemaps!
 
+#### Final Code
+
 Your final code should look like the following:
 
 >index.html
