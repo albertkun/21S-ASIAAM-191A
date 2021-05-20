@@ -1,4 +1,4 @@
-# Collaborating with GitHub and Looking at Plugins
+# Collaborating with GitHub and Plugins
 ### Objectives:
 - Clone a new repository
 - Create a new branch
