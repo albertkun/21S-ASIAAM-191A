@@ -6,7 +6,9 @@ This assignment will be graded on the following:
 1. Fulfillment of the user stories set forth in the memo
 2. Relevant functionality that is specific to empowering community voices
 3. A `readme.md` for the repository that describes the technology used for the project and how others could use it in the future
-4. A short 2-minute presentation answering:
+4. A short 2-minute presentation
+
+#### Presentation (2-3 minutes total)
    1. Who is the project for and why is it important?
    2. How does the website empower people?
    3. What changes you would like to focus on between now and the final? Why?
