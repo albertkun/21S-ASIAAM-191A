@@ -1,4 +1,3 @@
-
 # Group Assignment #5 - Rough Draft
 ### Due 5/27
 Create a functional (doesn't have to be pretty or clean) version of your mapplication using the survey from students in class. 

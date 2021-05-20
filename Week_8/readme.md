@@ -4,8 +4,7 @@
 - [Social Change as Mentorship and Collaboration](./Materials/AA191_S_W7_Lecture_7.pdf)
 
 ## Lab
--  Collaborating with GitHub and Using Turf.js
-<!-- -  [Collaborating with GitHub and Using Turf.js](./Lab/) -->
+-  [Collaborating with GitHub and Plugins](./Lab/)
 ### Visiting Voices: Lucy Shen
 
 <img src="./Materials/lucyshen.jpg" alt="Lucy picture" width="350"/>
