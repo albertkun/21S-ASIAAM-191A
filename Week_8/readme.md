@@ -20,5 +20,5 @@
 - Survey final drafts via email or [inputted via this spreadsheet](https://docs.google.com/spreadsheets/d/1B5QTtB3iDFuOXT3z6kv1Dwr1eNku9AeVAHF55YEZXFs/edit#gid=0).
 
 ### Due Thursday 5/27:
-- [Group Assignment #5](./Week_8/Materials/groupassignment.md)
+- [Group Assignment #5](./Materials/groupassignment.md)
   
