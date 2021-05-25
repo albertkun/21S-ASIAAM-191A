@@ -21,5 +21,5 @@ This assignment will be graded on the following:
    - Please come up with a unique name for your group
 
 ## Submission
-Post your group's repository in this assignment thread:
+Post your group's repository and website link in this assignment thread:
 https://github.com/albertkun/21S-ASIAAM-191A/discussions/150
