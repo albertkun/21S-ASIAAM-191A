@@ -9,11 +9,12 @@ Group | Members
 [LA Tenants Survey](https://github.com/skarakas1/Tenants-Rights-Mapping-Project) | Sam Karakas, Ray Hsiao, Brian Zamora
 [Food Equity](https://github.com/Wny-Duong/WebDev-GIS-Health-Equity)| Ericko Halim, Latisha Sumardy, Wilny Duong
 [Mental Health](https://github.com/KenNL42/ASIAM-191A-Final-Project)| Michelle Nguyen, Nathakin Leepreecha, Vanessa Ta
+[SEA Admit Tours](https://github.com/epham36/AAS191A-RacialEquity) | Emily Pham, Jason Muljadi, Jess Xu
 
 ### Other groups:
 Group | Members
 --|--
 [Migration Justice / Justicia Migratoria](https://github.com/annyrviloria/21S-ASIAAM-191A-GroupProject) | Alize Magana, Andrea Min, Anny Rodriguez Viloria
-[SEA Admit Tours](https://github.com/epham36/AAS191A-RacialEquity) | Emily Pham, Jason Muljadi, Jess Xu
+
 
 
