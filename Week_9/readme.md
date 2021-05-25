@@ -1,7 +1,8 @@
 # Week 9 - Connecting Activism, Technology, and Social Change
 
 ## Lecture
-- [Building and Sustaining Connections with Civil Society](./Materials/AA191_S_W7_Lecture_7.pdf)
+<!-- - [Building and Sustaining Connections with Civil Society](./Materials/AA191_S_W7_Lecture_7.pdf) -->
+- Building and Sustaining Connections with Civil Society
 <!-- 
 ## Lab
 -  [Collaborating with GitHub and Plugins](./lab/) -->

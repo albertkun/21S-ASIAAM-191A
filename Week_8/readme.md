@@ -1,10 +1,11 @@
 # Week 8 - Collaboration and mentoring for social change
 
 ## Lecture
-- [Social Change as Mentorship and Collaboration](./Materials/AA191_S_W7_Lecture_7.pdf)
+- [Social Change as Mentorship and Collaboration](./Materials/AA191_S_W8_Lecture_8.pdf)
 
 ## Lab
 -  [Collaborating with GitHub and Plugins](./lab/)
+-  [Lab 8 Slides](./Materials/AA191_S_W8_Lab_8.pdf)
 ### Visiting Voices: Lucy Shen
 
 <img src="./Materials/lucyshen.jpg" alt="Lucy picture" width="350"/>
