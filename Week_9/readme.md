@@ -20,4 +20,7 @@
 
 ### Due Thursday 6/3:
 - [Final Thinking Cap](https://github.com/albertkun/21S-ASIAAM-191A/discussions/154)
+
+### Due Thursday 6/10:
+- [Final Group Assignment](../final_group_assignment.md)
   
