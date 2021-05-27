@@ -419,8 +419,9 @@ footer{
 
 While named `grid-template-areas` can be useful, if you have a lot of content, or if the content might grow in number, you can just specify the number that the content should occupy using the `grid-column` property and `repeat`. Additionally, we can start a `subgrid` within a `grid` element to specify which part of an already existing `grid` we want to visualize. 
 
-[More about `repeat`](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat())
-[More about `subgrid`](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Subgrid)
+- [More about `repeat`](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat())
+
+- [More about `subgrid`](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Subgrid)
 
 Let's apply a `subgrid` and `repeated columns` of 2 to the `#contents` selector:
 
