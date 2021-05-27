@@ -15,7 +15,7 @@ Criteria | Points
 **Technical originality**| 55
 **Final Presentation**| 50
 **User story/interface/experience**| 40
-**Invididual Group Evaluation**| 25
+**Individual Group Evaluation**| 25
 **Repository Documentation**| 25
 
 ## Rubric
@@ -23,7 +23,7 @@ Criteria | Points
 2. **Technical Originality**: Does the project have a unique identity beyond what was offered in the labs or already existing examples? Were you able to create your own functions that work specifically for your project?
 3. **User interface, user experience, design**: How well does your website consider the user stories and the user experience for community members? Does your website flow well from when a user first lands on it? Is the layout and design elements intuitive? Is it easy to use? 
 4. **Final Presentation**: Give a 10 to 12 minute presentation explaining the application, who it's designed to empower, and how it is a unique contribution to the transforming civil society. All members are required to speak roughly equal amounts of time. You are free to use any presentation materials, like Powerpoint, GoogleSlides, etc., but be sure to set aside some time to demo the project and/or take screenshots of it. Rehearse the presentation at least once or twice and time it. **Presentations that go over the 12 minutes will lose points**.
-5. **Invididual Group Evaluation** This course is designed around the principles of collaboration. In order to get a sense of how the group dyanmics were and to reflect your own contributions to the group, each member must evaluate themselves and their groupmates using this form:
+5. **Individual Group Evaluation** This course is designed around the principles of collaboration. In order to get a sense of how the group dynamics were and to reflect your own contributions to the group, each member must evaluate themselves and their groupmates using this form:
 6. **Repository Documentation** Complete the `readme.md` for the project repository by including a table of contents, a screenshot of the mapplication in action and what features/interactivity exists. Provide a simple explanation of the file structure. The `readme.md` should read as one cohesive documentation. Refer to [this article for guidance](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project). 
 Your final `readme.md` should have the following parts:
    - Table of Contents
