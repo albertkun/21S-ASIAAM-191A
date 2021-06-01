@@ -565,6 +565,14 @@ This online tool helps to reduce file sizes of GeoJSONs and do other geoprocessi
 
 > Main Tip: Choose the right tool for the job!
 
+### Building Content from scratch? Check W3 Schools 
+![https://www.w3schools.com/howto/default.asp](https://user-images.githubusercontent.com/8574425/120402849-ecc55c80-c2f7-11eb-992e-af01c318c23e.png)
+
+
+https://www.w3schools.com/howto/default.asp
+
+Similar to [Mozilla Developer Network](https://developer.mozilla.org/) for documentation, W3 schools provides a lot of nice [how-to](https://www.w3schools.com/howto/default.asp) tutorials on how to implement common website features, interfaces, and functions.
+
 ### Extending Leaflet with Plugins
 Owing to the opensource nature of Leaflet, people have written many reusable tools to help with common tasks. As a matter of fact, if you have written a function for Leaflet that you think is reusable, you can go ahead and submit to their list of plugins too! Ah, the awesomeness of open source!
 
