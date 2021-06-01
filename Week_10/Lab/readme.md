@@ -592,14 +592,13 @@ Join breakout rooms with your group. With the remaining time, look at some of th
   - Others
     - https://github.com/albertkun/leaflet_hex_timeslider
 
-Leave a review of them in the following Google Doc:
-https://docs.google.com/document/d/153yWO9wEMa4mBK7rBMyy2DveQNcilAGsyxUOPwkpK6M/edit#
+Leave a review of them in the Git-Practicing Repo:
+- https://github.com/albertkun/21S-AA191-GitPracticing/blob/main/review.md
 
 Feel free to try others not in this list and add it to the doc.
 
 Pay attention to how important good documentation is and how your own group projects `readme.md` should be structured. Creating a `branch` will be helpful when testing new features. Refer to [lab 8](../Week_8/Lab/readme.md) for a refresher.
 
 ### Submission
-As a group, leave a review of a plugin in the following Google Doc:
-
-https://docs.google.com/document/d/153yWO9wEMa4mBK7rBMyy2DveQNcilAGsyxUOPwkpK6M/edit#
+As a group, make a pull request in the following repo with your comments on a plugin:
+- https://github.com/albertkun/21S-AA191-GitPracticing/blob/main/review.md
