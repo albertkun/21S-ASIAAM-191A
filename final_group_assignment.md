@@ -34,7 +34,18 @@ Your final `readme.md` should have the following parts:
    - The features and a screenshot(s) of the mapplication
    - Utilize the [above article's](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [`readme.md` template or something similar](https://github.com/ritaly/README-cheatsheet)
 
+## Presentation Guidelines
+Overall, you should be pitching the project to the audience, not simply demoing your website!
+1.	Introduce the project (< 30 seconds)
+2.	Who is the project for and why is it important? (2-3 mins) 
+3.	What does your website do, and how does it empower people? (2-3 mins)
+4.	Demo of the website (or screenshots) (2 mins)
+5.	How would you like your project to be used in the future or by the community members? (2 mins)
+
+
 ## Submission
 - [Select a presentation slot on the final sheet](https://docs.google.com/spreadsheets/d/1B5QTtB3iDFuOXT3z6kv1Dwr1eNku9AeVAHF55YEZXFs/edit#gid=350430430)
 - Separately take the [individual group evaluation](https://forms.office.com/r/rVgknaiFUd)
 - Post your group's repository and website link in this assignment thread: https://github.com/albertkun/21S-ASIAAM-191A/discussions/158
+
+
