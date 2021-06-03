@@ -7,3 +7,8 @@
 ## Lecture
 - Beyond Web Development and GIS for Social Change
 <!-- - [Beyond Web Development and GIS for Social Change](./Materials/AA191_S_W10_Lecture_10.pdf) -->
+
+## Assignment
+### Due Thursday 6/10:
+- [Final Group Assignment](../final_group_assignment.md)
+  
