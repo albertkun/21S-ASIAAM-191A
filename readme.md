@@ -1,9 +1,14 @@
 #  Asian Am 191A – Web Development and GIS for Social Change: Critical Data for Transforming Civil Society 
 Welcome to the class repository for Asian Am 191. 
 
-The Lab Assignment repo can be found here:
+Important Repositories can be found below:
 
-[https://github.com/albertkun/21S-ASIAAM-191A-Assignments](https://github.com/albertkun/21S-ASIAAM-191A-Assignments)
+Repo|Link
+--|--
+Lab Assignments|[https://github.com/albertkun/21S-ASIAAM-191A-Assignments](https://github.com/albertkun/21S-ASIAAM-191A-Assignments)
+Git Practicing|[https://github.com/albertkun/21S-AA191-GitPracticing](https://github.com/albertkun/21S-AA191-GitPracticing)
+
+
 
 ## Class Details
 Asian American Studies Department, Spring 2021
