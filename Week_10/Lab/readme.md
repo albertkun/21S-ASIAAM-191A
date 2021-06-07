@@ -366,17 +366,19 @@ Up to this point, you lab code should look like the following:
         <header>Welcome to COVID-19 Vaccination Stories</header>
         <div id="contents"></div>
         <div id="map">
-                <div>Speaks English
-                    <svg height="10" width="10">
-                        <circle cx="5" cy="5" r="4" stroke="black" stroke-width="1" fill="green" />
-                    </svg> 
-                </div>
+		<div id="legend">
+			<div>Speaks English
+			    <svg height="10" width="10">
+				<circle cx="5" cy="5" r="4" stroke="black" stroke-width="1" fill="green" />
+			    </svg> 
+			</div>
 
-                <div> Speaks Other Languages 
-                    <svg height="10" width="10">
-                        <circle cx="5" cy="5" r="4" stroke="black" stroke-width="1" fill="red" />
-                    </svg> 
-                </div>	     
+			<div> Speaks Other Languages 
+			    <svg height="10" width="10">
+				<circle cx="5" cy="5" r="4" stroke="black" stroke-width="1" fill="red" />
+			    </svg> 
+			</div>
+		<div>
 	</div>
         <div id="survey">
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqVT10bEbUrULMu6Etwj4ZBXGf-LAxcKohAINFbIdZmHS6OA/viewform?embedded=true" width="640" height="654" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
