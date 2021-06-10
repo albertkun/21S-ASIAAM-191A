@@ -37,7 +37,7 @@ Complete the `readme.md` for the project repository by including a table of cont
 Your final `readme.md` should have the following parts:
    - Table of Contents
    - Objective (Assignment #1)
-   - Who is being empowered (Assignment #2)
+     - Who is being empowered (Assignment #2)
    - What technology was used (Assignment #5)
    - How it can be repurposed (Assignment #5)
    - The features and a screenshot(s) of the mapplication
